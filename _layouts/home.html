@@ -2,52 +2,67 @@
 layout: default
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  {{ content }}
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-
+<div class="jumbotron jumbotron-fluid" id="unseen-enemy">
+  <div class="container">
+      <h1>{{ page.film.title }}</h1>
+      <p class="lead">{{ page.film.description }}</p>
+  </div>
 </div>
 
-<section id="unseen-enemy">
+<div class="container" id="trailer">
+  <div class="row">
+    <div class="col-sm-6">
+      <img src="http://placehold.it/200x300" alt="">
+    </div>
+    <div class="col-sm-6">
+      <a href="#">play our trailer</a>
+    </div>
+  </div>
+</div>
 
-</section>
-<section id="broadcast">
+<div class="jumbotron jumbotron-fluid jumbotron-dark" id="broadcast">
+  <div class="container">
+    <p>World premiere on March 19th at<br> Copenhagen International Documentary Film Festival 2017</p>
+    <h2>Watch the Film<br> Global Broadcast</h2>    
+  </div>
+</div>
 
-</section>
-<section id="special-events">
+    <section id="special-events">
+      {% for event in page.events %}
+        {{ event.date | date: "%B %d, %Y" }} <br>
+        <strong>{{ event.title }}</strong> <br>
+        {{ event.location }} <br>
+        <small>{{ event.host }}</small>
+      {% endfor %}
+    </section>
+    <section id="media-partners">
 
-</section>
-<section id="media-partners">
+    </section>
+    <section id="starts-with-you">
 
-</section>
-<section id="starts-with-you">
+    </section>
+    <section id="join-our-movement">
 
-</section>
-<section id="join-our-movement">
+    </section>
+    <section id="partners">
 
-</section>
-<section id="partners">
+    </section>
+    <section id="share">
 
-</section>
-<section id="share">
+    </section>
+    <section id="content">
+      <ul class="post-list">
+        {% for post in site.posts %}
+          <li>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-</section>
-<footer>
+            <h2>
+              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </h2>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+    <footer>
 
-</footer>
+    </footer>
