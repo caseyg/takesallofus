@@ -14,8 +14,8 @@ description: 'Write an awesome description for your new site here. You can edit 
   results) and in your feed.xml site description.
 
 '
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter: ItTakesAllofUs
 instagram: ItTakesAllofUs
 youtube: https://www.youtube.com/channel/UCvBuueHIDgm7g8LpDFFcYPA
