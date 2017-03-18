@@ -13,9 +13,9 @@ events:
   location: Time Warner Theater, New York
   host: Hosted by CNN
 mediapartners:
-- title: 
+- title: CNN Films
   url: 
-  logo: 
+  logo: "/uploads/cnnfilms.png"
 mediapartners-additional:
 - title: 
   url: 
