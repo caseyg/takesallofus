@@ -30,6 +30,5 @@ supportingcommunities:
 - title:
   url:
   logo:
-
 layout: home
 ---
