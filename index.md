@@ -10,9 +10,9 @@ film:
 broadcastevents:
   description: "04 April  \n**France**  ARTE/WDR  \n**Germany**  ARTE/ WDR  \n**Poland**
     \ TVN  \n**Israel**   YES  \n  \n05 April  \n**Hong Kong** RTHK  9:00pm  \n  \n06
-    April  \n**Latin America**  DirectTV  21:00 \n**Venezuela**  DirectTV  22:00  \n**Estonia**
-    \ ETV2  20:00  \n\n07 April   \n**United States**  CNN  9:00 PM/ET  &  8:00 PM
-    / PT  \n**Canada**  CNN  9:00 PM/ET  &  8:00 PM / PT"
+    April  \n**Latin America**  DirectTV  21:00  \n**Venezuela**  DirectTV  22:00
+    \ \n**Estonia**  ETV2  20:00  \n\n07 April   \n**United States**  CNN  9:00 PM/ET
+    \ &  8:00 PM / PT  \n**Canada**  CNN  9:00 PM/ET  &  8:00 PM / PT"
 events:
 - date: 2017-04-04 00:00:00 -04:00
   title: Screening
