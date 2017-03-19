@@ -106,7 +106,17 @@ director:
   content-text: |-
     > I walked away from working on this film with a deep understanding that what I do affects the people around me, everyone from loved ones to passers-by. I could sit next to a child, a grandmother, a man undergoing cancer treatment and give them the flu (or any other disease) and hospitalize or kill them without even knowing it. Each of us have a role to play, and it won’t work unless we all contribute.
     **—Janet Tobias, Director’s Statement**
-Field name: 
+takeaction-text:
+- |-
+  **[Petition Against Pandemics](https://www.globalcitizen.org/en/action/g20-row-pandemics-petition/)**
+
+  *Unite with global citizens of all nations and call on our G20 leaders to prioritize pandemic preparedness within national budgets and ensure our collective global health security is a priority on the G20 agenda this July 2017.*
+
+  ***In Partnership with [Global Citizen](https://www.globalcitizen.org/)***
+- |-
+  **Join our Movement**
+
+  *Our community of action is growing. Follow us on Facebook, Instagram and Twitter to check out our latest videos, information, events, and calls to action that support the fight against emerging infectious diseases.*
 layout: home
 ---
 
