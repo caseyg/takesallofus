@@ -8,26 +8,25 @@ film:
     Film Festival](/uploads/copenhagenfilmfestival.png)"
 broadcastevents:
   description: |-
-    **04 April**\
-    FRANCE   |   **ARTE/WDR**\
-    GERMANY   |   **ARTE/ WDR**\
-    ISRAEL   |   **YES**\
+    **04 April**
+    FRANCE   |   **ARTE/WDR**
+    GERMANY   |   **ARTE/WDR**
+    ISRAEL   |   **YES**
     POLAND   |   **TVN**
 
-    **05 April**\
+    **05 April**
     HONG KONG   |   **RTHK   21:00**
 
-    06 April\
-    **LATIN AMERICA**  DirectTV  21:00\
-    **Venezuela**  DirectTV  22:00\
-    **Estonia**  ETV2  20:00
+    **06 April**
+    ESTONIA   |   **ETV2  20:00**
+    LATIN AMERICA   |   **DirectTV  21:00**
+    VENEZUELA   |  ** DirectTV  22:00**
 
-    07 April **World Health Day Broadcast**
-    **United States**  CNN  9PM/ET  8PM/PT
-    **Canada**  CNN  9PM/ET  8PM / PT
+    **07 April**
+    United States    |   **CNN  9PM/ET  8PM/PT**
+    Canada   |   **CNN  9PM/ET  8PM/PT**
 
-    08 April \*\*
-    Available on CNN.com/go
+    Starting 08 April    |   Available on CNN.com/go
     *AppleTV, Roku, Amazon Fire, and iPad*
 events:
 - date-and-time: Sun. 19 March  19:00
