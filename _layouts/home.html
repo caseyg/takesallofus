@@ -48,30 +48,6 @@ layout: default
   </div>
 </section>
 
-<section id="media-partners" class="jumbotron jumbotron-fluid mb-0 bg-teal--dark text-center">
-  <div class="container">
-    <h2>Partners &amp; Allies</h2>
-
-    <hr>
-
-    <h3 class="py-3">Supporting Partners</h3>
-
-    {% include partners.html loop=page.presentingpartners %}
-
-    <hr>
-
-    <h3 class="py-3">Mission Allies</h3>
-
-    {% include partners.html loop=page.missionallies %}
-
-    <hr>
-
-    <h3 class="py-3">Community</h3>
-
-    {% include partners.html loop=page.OurCommunities %}
-  </div>
-</section>
-
 <!--
 <section id="starts-with-you" class="jumbotron jumbotron-fluid mb-0 bg-orange">
 
@@ -96,11 +72,16 @@ layout: default
   </div>
 </section>
 
-<!--
-<section id="partners" class="jumbotron jumbotron-fluid mb-0 bg-orange">
-
-</section>
--->
+<div id="directors-statement" class="jumbotron jumbotron-fluid bg-teal--dark light text-center mb-0">
+  <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-10 offset-sm-1 col-md-10 offset-md-1 col-lg-8 offset-lg-2 orange">{{ page.director.pullquote-text | markdownify }}</div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 col-sm-10 offset-sm-1 col-md-10 offset-md-1 col-lg-8 offset-lg-2">{{ page.director.content-text | markdownify }}</div>
+      </div>
+  </div>
+</div>
 
 <section id="share" class="jumbotron jumbotron-fluid mb-0 bg-orange text-center">
 <div class="container">
@@ -128,6 +109,30 @@ layout: default
 
   </ul>
 </div>
+</section>
+
+<section id="media-partners" class="jumbotron jumbotron-fluid mb-0 bg-teal--dark text-center">
+  <div class="container">
+    <h2>Partners &amp; Allies</h2>
+
+    <hr>
+
+    <h3 class="py-3">Supporting Partners</h3>
+
+    {% include partners.html loop=page.presentingpartners %}
+
+    <hr>
+
+    <h3 class="py-3">Mission Allies</h3>
+
+    {% include partners.html loop=page.missionallies %}
+
+    <hr>
+
+    <h3 class="py-3">Community</h3>
+
+    {% include partners.html loop=page.OurCommunities %}
+  </div>
 </section>
 
 <!--
