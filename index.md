@@ -69,16 +69,16 @@ missionallies:
   url: 
   logo: 
 OurCommunities:
-- title: ASHLEY MCCORMICK FOUNDATION
+- title: The Ashley McCormick Foundation
   url: 
   logo: "/uploads/theashleymccormickfoundation.png"
-- title: FIGHT THE FLU FOUNDATION
+- title: Fight the Flu Foundation
   url: 
   logo: "/uploads/fighttheflufoundation.png"
-- title: FAMILIES FIGHTING FLU
+- title: Families Fighting Flu
   url: 
   logo: "/uploads/familiesfightingfluinc.png"
-- title: ALANA'S FOUNDATION
+- title: Alana's Foundation
   url: 
   logo: "/uploads/alanasfoundation.png"
 - title: No More Epidemics
