@@ -42,6 +42,9 @@ img.partner {
 #unseen-enemy {
   background-image: url('/assets/texture.jpg');
   background-size: cover;
+  .lead img {
+    max-width: 175px;
+  }
 }
 
 #broadcast-events {
