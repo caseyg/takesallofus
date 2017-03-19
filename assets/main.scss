@@ -23,8 +23,17 @@ $teal--light: #71B9AF;
 
 .bg-orange, .bg-teal--dark {
   color: $light;
+}
+
+.bg-orange {
   a:link, a:visited {
     color: $teal;
+  }
+}
+
+.bg-teal--dark {
+  a:link, a:visited {
+    color: $teal--light;
   }
 }
 
