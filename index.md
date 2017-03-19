@@ -27,78 +27,77 @@ events:
   url: http://www.nfbio.dk/ticketflow/2017/16708
 mediapartners:
 - title: CNN FILMS
-  url: 
+  url:
   logo: "/uploads/CNNFILMS-972431.png"
-mediapartners-additional:
 - title: VULCAN PRODUCTIONS
-  url: 
+  url:
   logo: "/uploads/vulcanproductions.png"
 - title: SIERRA/TANGO PRODUCTIONS
-  url: 
+  url:
   logo: "/uploads/sierratangoproductions.png"
 - title: ARTE
-  url: 
+  url:
   logo: "/uploads/arte.png"
 - title: WDR
-  url: 
+  url:
   logo: "/uploads/wdr.png"
-presskit: 
+presskit:
 presentingpartners:
 - title: Johnson & Johnson
-  url: 
+  url:
   logo: "/uploads/15-Johnson-Johnson-Logo%20copy.png"
 - title: Wellcome Trust
-  url: 
+  url:
   logo: "/uploads/wellcometrust.png"
 - title: The Bill & Melinda Gates Foundation
-  url: 
+  url:
   logo: "/uploads/gatesfoundation.png"
 missionallies:
 - title: Global Citizen
-  url: 
+  url:
   logo: "/uploads/globalcitizen_1.png"
 - title: Global Moms Challenge
-  url: 
+  url:
   logo: "/uploads/globalmomschallenge.png"
 - title: Global Reporting Centre
-  url: 
+  url:
   logo: "/uploads/globalreportingcentre.png"
 - title: Institut Pasteur
-  url: 
+  url:
   logo: "/uploads/institutpasteur.png"
 - title: London School of Hygiene and Tropical Medicine
-  url: 
+  url:
   logo: "/uploads/londonschoolofhygiene.png"
 - title: National Academy of Medicine
-  url: 
+  url:
   logo: "/uploads/nationalacacdenmyofmedicine.png"
 - title: NYU College of Global Public Health
-  url: 
+  url:
   logo: "/uploads/nyu.png"
 - title: Skoll Global Health Threats Fund
-  url: 
+  url:
   logo: "/uploads/skollglobalthreatsfund.png"
 - title: University of British Columbia
-  url: 
+  url:
   logo: "/uploads/ubc.png"
 - title: Boston Public Health
-  url: 
+  url:
   logo: "/uploads/bostonpublichealth.png"
 OurCommunities:
 - title: Alana's Foundation
-  url: 
+  url:
   logo: "/uploads/alanasfoundation.png"
 - title: Ashley McCormick Foundation
-  url: 
+  url:
   logo: "/uploads/theashleymccormickfoundation.png"
 - title: Families Fighting Flu
-  url: 
+  url:
   logo: "/uploads/familiesfightingfluinc.png"
 - title: Fight the Flu Foundation
-  url: 
+  url:
   logo: "/uploads/fighttheflufoundation.png"
 - title: No More Epidemics
-  url: 
+  url:
   logo: "/uploads/nomoreepidemics.png"
 director:
   pullquote-text: "“You have an enemy you can not hide from. Where are you going to
