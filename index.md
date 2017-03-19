@@ -69,9 +69,18 @@ missionallies:
   url: 
   logo: 
 supportingcommunities:
-- title: 
+- title: ASHLEY MCCORMICK FOUNDATION
   url: 
-  logo: 
+  logo: "/uploads/theashleymccormickfoundation.png"
+- title: FIGHT THE FLU FOUNDATION
+  url: 
+  logo: "/uploads/fighttheflufoundation.png"
+- title: FAMILIES FIGHTING FLU
+  url: 
+  logo: "/uploads/familiesfightingfluinc.png"
+- title: ALANA'S FOUNDATION
+  url: 
+  logo: "/uploads/alanasfoundation.png"
 layout: home
 ---
 
