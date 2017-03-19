@@ -2,60 +2,76 @@
 layout: default
 ---
 
-<div class="jumbotron jumbotron-fluid" id="unseen-enemy">
+<div class="jumbotron jumbotron-fluid bg-teal--dark light text-center mb-0" id="unseen-enemy">
   <div class="container">
+      <p>It Takes All of Us Presents</p>
       <h1>{{ page.film.title }}</h1>
       <p class="lead">{{ page.film.description }}</p>
   </div>
 </div>
 
-<div class="container" id="trailer">
-  <div class="row">
-    <div class="col-sm-6">
-      <img src="http://placehold.it/200x300" alt="">
-    </div>
-    <div class="col-sm-6">
-      <a href="#">play our trailer</a>
-    </div>
+<div class="jumbotron jumbotron-fluid bg-teal--dark light text-center mb-0" id="content">
+  <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">{{ content }}</div>
+      </div>
   </div>
 </div>
 
-<div class="jumbotron jumbotron-fluid jumbotron-dark" id="broadcast">
+<div class="container-fluid bg-dark" id="trailer">
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/IfvX8_nEMxg?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="jumbotron jumbotron-fluid bg-dark light mb-0" id="broadcast-events">
   <div class="container">
     <p>World premiere on March 19th at<br> Copenhagen International Documentary Film Festival 2017</p>
-    <h2>Watch the Film<br> Global Broadcast</h2>    
+    <h2>Watch the Film<br> Global Broadcast</h2>
+    {{ page.broadcastevents.schedule }}
   </div>
 </div>
 
-    <section id="special-events">
-      {% for event in page.events %}
-        {{ event.date | date: "%B %d, %Y" }} <br>
-        <strong>{{ event.title }}</strong> <br>
-        {{ event.location }} <br>
-        <small>{{ event.host }}</small>
+<section id="special-events" class="jumbotron jumbotron-fluid mb-0 bg-teal light">
+  {% for event in page.events %}
+    {{ event.date | date: "%B %d, %Y" }} <br>
+    <strong>{{ event.title }}</strong> <br>
+    {{ event.location }} <br>
+    <small>{{ event.host }}</small>
+  {% endfor %}
+</section>
+
+    <section id="media-partners" class="jumbotron jumbotron-fluid mb-0 bg-teal--dark">
+      {% for partner in page.mediapartners %}
+        <a href="{{ partner.url }}">
+          {% if partner.logo != "" %}
+            <img class="partner" src="{{ partner.logo }}" alt="{{ partner.title }}">
+          {% else %}
+            {{ partner.title }}
+          {% endif %}
+        </a>
       {% endfor %}
-    </section>
-    <section id="media-partners">
 
     </section>
-    <section id="starts-with-you">
+    <section id="starts-with-you" class="jumbotron jumbotron-fluid mb-0 bg-orange">
 
     </section>
-    <section id="join-our-movement">
+
+    <section id="join-our-movement" class="jumbotron jumbotron-fluid mb-0 bg-orange">
 
     </section>
-    <section id="partners">
+
+    <section id="partners" class="jumbotron jumbotron-fluid mb-0 bg-orange">
 
     </section>
-    <section id="share">
+
+    <section id="share" class="jumbotron jumbotron-fluid mb-0 bg-orange">
 
     </section>
-    <section id="content">
-      <ul class="post-list">
+
+    <section id="content" class="jumbotron jumbotron-fluid mb-0 bg-orange">
+      <ul class="post-list mb-0">
         {% for post in site.posts %}
           <li>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
             <h2>
               <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
             </h2>
@@ -63,6 +79,3 @@ layout: default
         {% endfor %}
       </ul>
     </section>
-    <footer>
-
-    </footer>

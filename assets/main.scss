@@ -1,3 +1,36 @@
 ---
 ---
+$light: #FFFFFF;
+$dark: #041419;
+$orange: #F9A51A;
+$teal: #043C3A;
+$teal--dark: #04262B;
+$teal--light: #71B9AF;
 
+.light {           color: $light;}
+.dark {           color: $dark;}
+.orange {         color: $orange;}
+.teal {           color: $teal;}
+.teal--dark {     color: $teal--dark;}
+.teal--light {    color: $teal--light;}
+
+.bg-light {        background-color: $dark;}
+.bg-dark {        background-color: $dark;}
+.bg-orange {      background-color: $orange;}
+.bg-teal {        background-color: $teal;}
+.bg-teal--dark {  background-color: $teal--dark;}
+.bg-teal--light { background-color: $teal--light;}
+
+img.partner {
+  width: 50%;
+}
+
+#unseen-enemy {
+  background-image: url('/assets/texture.jpg');
+  background-size: cover;
+}
+
+#broadcast-events {
+  background-image: url('/assets/map.png');
+  background-size: cover;
+}
