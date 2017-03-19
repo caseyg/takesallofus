@@ -35,6 +35,12 @@ mediapartners-additional:
 - title: SIERRA/TANGO PRODUCTIONS
   url: 
   logo: "/uploads/sierratangoproductions.png"
+- title: ARTE
+  url: 
+  logo: "/uploads/arte.png"
+- title: WDR
+  url: 
+  logo: "/uploads/wdr.png"
 presskit: 
 presentingpartners:
 - title: Johnson & Johnson
@@ -68,6 +74,9 @@ missionallies:
 - title: The University of British Columbia
   url: 
   logo: "/uploads/ubc.png"
+- title: 
+  url: 
+  logo: 
 OurCommunities:
 - title: The Ashley McCormick Foundation
   url: 
