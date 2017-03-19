@@ -5,7 +5,7 @@ layout: default
 <div id="unseen-enemy" class="jumbotron jumbotron-fluid bg-teal--dark light text-center mb-0">
   <div class="container">
       <p>It Takes All of Us Presents</p>
-      <h1>{{ page.film.title }}</h1>
+      <h1 class="text-hide">{{ page.film.title }}</h1>
       <div class="lead">{{ page.film.description | markdownify }}</div>
       <hr>
       {% include partners.html loop=page.mediapartners %}
@@ -17,7 +17,7 @@ layout: default
 <div id="content" class="jumbotron jumbotron-fluid bg-teal--dark light text-center mb-0">
   <div class="container">
       <div class="row">
-        <div class="col-xs-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">{{ content }}</div>
+        <div class="col-xs-12 col-sm-10 offset-sm-1 col-md-10 offset-md-1 col-lg-8 offset-lg-2">{{ content }}</div>
       </div>
   </div>
 </div>
