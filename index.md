@@ -18,6 +18,11 @@ events:
   venue: Cinemateket
   location: Copenhagen, Denmark
   url: http://ebillet.dk/simple/buy.listtt.aspx?act=Buy&refno=40541&orgno=156&sysno=3
+- date-and-time: 22 March 19:00
+  title: 'CPH DOX Screening '
+  venue: some palace
+  location: copenhagen
+  url: www.facebook.com
 mediapartners:
 - title: CNN Films
   url: 
