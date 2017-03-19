@@ -102,7 +102,7 @@ OurCommunities:
   logo: "/uploads/nomoreepidemics.png"
 director:
   pullquote-text: "“You have an enemy you can not hide from. Where are you going to
-    go? Who are you going to run from?”** —DR. SOKA MOSES**"
+    go? Who are you going to run from?” **—DR. SOKA MOSES**"
   content-text: |-
     > I walked away from working on this film with a deep understanding that what I do affects the people around me, everyone from loved ones to passers-by. I could sit next to a child, a grandmother, a man undergoing cancer treatment and give them the flu (or any other disease) and hospitalize or kill them without even knowing it. Each of us have a role to play, and it won’t work unless we all contribute.
     **—Janet Tobias, Director’s Statement**
