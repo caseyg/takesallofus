@@ -37,9 +37,9 @@ mediapartners-additional:
   logo: "/uploads/sierratangoproductions.png"
 presskit: 
 foundingoutreachpartners:
-- title: 
+- title: JOHNSON & JOHNSON
   url: 
-  logo: 
+  logo: "/uploads/15-Johnson-Johnson-Logo%20copy.png"
 missionallies:
 - title: 
   url: 
