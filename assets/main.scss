@@ -47,3 +47,18 @@ $teal--light: #71B9AF;
   background-image: url('/assets/map.png');
   background-size: cover;
 }
+
+body {
+  font-family: Raleway;
+}
+
+#unseen-enemy h1 {
+  background-image: url('/assets/unseenenemy.png');
+  background-size: contain;
+  background-repeat: none;
+  background-position: center;
+  margin: auto;
+  width: 700px;
+  height: 96px;
+  max-width: 100%;
+}

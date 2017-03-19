@@ -5,7 +5,7 @@ layout: default
 <div id="unseen-enemy" class="jumbotron jumbotron-fluid bg-teal--dark light text-center mb-0">
   <div class="container">
       <p>It Takes All of Us Presents</p>
-      <h1>{{ page.film.title }}</h1>
+      <h1 class="text-hide">{{ page.film.title }}</h1>
       <div class="lead">{{ page.film.description | markdownify }}</div>
       <hr>
       {% include partners.html loop=page.mediapartners %}
@@ -17,7 +17,7 @@ layout: default
 <div id="content" class="jumbotron jumbotron-fluid bg-teal--dark light text-center mb-0">
   <div class="container">
       <div class="row">
-        <div class="col-xs-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">{{ content }}</div>
+        <div class="col-xs-12 col-sm-10 offset-sm-1 col-md-10 offset-md-1 col-lg-8 offset-lg-2">{{ content }}</div>
       </div>
   </div>
 </div>
@@ -37,11 +37,13 @@ layout: default
   <div class="container">
     <h2>Screenings &amp; Special Events</h2>
     {% for event in page.events %}
-      {% if event.date-and-time != "" %}{{ event.date-and-time }} <br>{% endif %}
-      {% if event.title != "" %}<strong>{{ event.title }}</strong><br>{% endif %}
-      {% if event.venue != "" %}{{ event.venue }} <br>{% endif %}
-      {% if event.location != "" %}{{ event.location }} <br>{% endif %}
-      {% if event.url != "" %}<a href="{{ event.url }}">Purchase Tickets</a>{% endif %}
+      <p class="mb-3">
+        {% if event.date-and-time != "" %}{{ event.date-and-time }} <br>{% endif %}
+        {% if event.title != "" %}<strong>{{ event.title }}</strong><br>{% endif %}
+        {% if event.venue != "" %}{{ event.venue }} <br>{% endif %}
+        {% if event.location != "" %}{{ event.location }} <br>{% endif %}
+        {% if event.url != "" %}<a href="{{ event.url }}">Purchase Tickets</a>{% endif %}
+      </p>
     {% endfor %}
   </div>
 </section>
@@ -50,17 +52,23 @@ layout: default
   <div class="container">
     <h2>Partners &amp; Allies</h2>
 
-    <h3>Supporting Partners</h3>
+    <hr>
 
-    {% include partners.html loop=page.foundingoutreachpartners %}
+    <h3 class="py-3">Supporting Partners</h3>
 
-    <h3>Mission Allies</h3>
+    {% include partners.html loop=page.presentingpartners %}
+
+    <hr>
+
+    <h3 class="py-3">Mission Allies</h3>
 
     {% include partners.html loop=page.missionallies %}
 
-    <h3>Community</h3>
+    <hr>
 
-    {% include partners.html loop=page.supportingcommunities %}
+    <h3 class="py-3">Community</h3>
+
+    {% include partners.html loop=page.OurCommunities %}
   </div>
 </section>
 
