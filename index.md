@@ -16,25 +16,25 @@ events:
   host: Hosted by CNN
 mediapartners:
 - title: CNN Films
-  url:
+  url: 
   logo: "/uploads/cnnfilms.png"
 mediapartners-additional:
-- title:
-  url:
-  logo:
-presskit:
+- title: 
+  url: 
+  logo: 
+presskit: 
 foundingoutreachpartners:
-- title:
-  url:
-  logo:
+- title: 
+  url: 
+  logo: 
 missionallies:
-- title:
-  url:
-  logo:
+- title: 
+  url: 
+  logo: 
 supportingcommunities:
-- title:
-  url:
-  logo:
+- title: 
+  url: 
+  logo: 
 layout: home
 ---
 
