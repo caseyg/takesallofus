@@ -7,12 +7,28 @@ film:
     \ \nWritten and directed by filmmaker, Janet Tobias\n\n![Official Selection: Copenhagen
     Film Festival](/uploads/copenhagenfilmfestival.png)"
 broadcastevents:
-  description: "04 April  \n**France**  ARTE/WDR  \n**Germany**  ARTE/ WDR  \n**Israel**
-    \ YES  \n**Poland**  TVN  \n  \n05 April  \n**Hong Kong**  RTHK  21:00\n  \n06
-    April  \n**Latin America**  DirectTV  21:00  \n**Venezuela**  DirectTV  22:00
-    \ \n**Estonia**  ETV2  20:00  \n\n07 April **World Health Day Broadcast**\n**United
-    States**  CNN  9PM/ET  8PM/PT\n**Canada**  CNN  9PM/ET  8PM / PT\n\n08 April **\nAvailable
-    on CNN.com/go \n*AppleTV, Roku, Amazon Fire, and iPad*"
+  description: |-
+    **04 April**\
+    FRANCE   |   **ARTE/WDR**\
+    GERMANY   |   **ARTE/ WDR**\
+    ISRAEL   |   **YES**\
+    POLAND   |   **TVN**
+
+    **05 April**\
+    HONG KONG   |   **RTHK   21:00**
+
+    06 April\
+    **LATIN AMERICA**  DirectTV  21:00\
+    **Venezuela**  DirectTV  22:00\
+    **Estonia**  ETV2  20:00
+
+    07 April **World Health Day Broadcast**
+    **United States**  CNN  9PM/ET  8PM/PT
+    **Canada**  CNN  9PM/ET  8PM / PT
+
+    08 April \*\*
+    Available on CNN.com/go
+    *AppleTV, Roku, Amazon Fire, and iPad*
 events:
 - date-and-time: Sun. 19 March  19:00
   title: CPH:DOX Screening + Director's Talk with featured guests
@@ -41,7 +57,7 @@ mediapartners-additional:
 - title: WDR
   url: 
   logo: "/uploads/wdr.png"
-presskit: https://www.dropbox.com/s/digipob8bxe0amf/UnseenEnemy_PressKit._March2017.pdf?dl=0
+presskit: 
 presentingpartners:
 - title: Johnson & Johnson
   url: 
