@@ -62,12 +62,12 @@ missionallies:
 - title: National Academy of Medicine
   url: 
   logo: "/uploads/nationalacacdenmyofmedicine.png"
-- title: 
+- title: Global Moms Challenge
   url: 
-  logo: 
-- title: 
+  logo: "/uploads/globalmomschallenge.png"
+- title: The University of British Columbia
   url: 
-  logo: 
+  logo: "/uploads/ubc.png"
 OurCommunities:
 - title: The Ashley McCormick Foundation
   url: 
