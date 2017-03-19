@@ -59,6 +59,9 @@ missionallies:
 - title: Global Moms Challenge
   url: 
   logo: "/uploads/globalmomschallenge.png"
+- title: Global Reporting Centre
+  url: 
+  logo: "/uploads/globalreportingcentre.png"
 - title: Institut Pasteur
   url: 
   logo: "/uploads/institutpasteur.png"
@@ -68,15 +71,15 @@ missionallies:
 - title: National Academy of Medicine
   url: 
   logo: "/uploads/nationalacacdenmyofmedicine.png"
+- title: NYU College of Global Public Health
+  url: 
+  logo: "/uploads/nyu.png"
 - title: Skoll Global Health Threats Fund
   url: 
   logo: "/uploads/skollglobalthreatsfund.png"
 - title: University of British Columbia
   url: 
   logo: "/uploads/ubc.png"
-- title: NYU College of Global Public Health
-  url: 
-  logo: "/uploads/nyu.png"
 OurCommunities:
 - title: Alana's Foundation
   url: 
