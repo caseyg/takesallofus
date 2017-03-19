@@ -1,0 +1,13 @@
+<div class="row align-items-center justify-content-center">
+  {% for partner in include.loop %}
+  <figure class="col-6 col-sm-4 col-md-2">
+    {% if partner.url != null %}<a href="{{ partner.url }}">{% endif %}
+      {% if partner.logo != null %}
+        <img class="partner img-fluid" src="{{ partner.logo }}" alt="{{ partner.title }}">
+      {% else %}
+        {{ partner.title }}
+      {% endif %}
+    {% if partner.url != null %}</a>{% endif %}
+  </figure>
+  {% endfor %}
+</div>

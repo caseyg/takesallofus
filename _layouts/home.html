@@ -8,33 +8,9 @@ layout: default
       <h1>{{ page.film.title }}</h1>
       <div class="lead">{{ page.film.description | markdownify }}</div>
       <hr>
-      <ul class="list-unstyled row">
-        {% for partner in page.mediapartners %}
-        <li class="col-xs-3">
-          <a href="{{ partner.url }}">
-            {% if partner.logo != "" %}
-              <img class="partner img-fluid" src="{{ partner.logo }}" alt="{{ partner.title }}">
-            {% else %}
-              {{ partner.title }}
-            {% endif %}
-          </a>
-        </li>
-        {% endfor %}
-      </ul>
+      {% include partners.html loop=page.mediapartners %}
       <hr>
-      <ul class="list-unstyled row">
-        {% for partner in page.mediapartners-additional %}
-        <li class="col-xs-3">
-          <a href="{{ partner.url }}">
-            {% if partner.logo != "" %}
-              <img class="partner img-fluid" src="{{ partner.logo }}" alt="{{ partner.title }}">
-            {% else %}
-              {{ partner.title }}
-            {% endif %}
-          </a>
-        </li>
-        {% endfor %}
-      </ul>
+      {% include partners.html loop=page.mediapartners-additional %}
   </div>
 </div>
 
@@ -76,51 +52,15 @@ layout: default
 
     <h3>Supporting Partners</h3>
 
-    <ul class="list-unstyled row">
-      {% for partner in page.foundingoutreachpartners %}
-      <li class="col-xs-3">
-        <a href="{{ partner.url }}">
-          {% if partner.logo != "" %}
-            <img class="partner img-fluid" src="{{ partner.logo }}" alt="{{ partner.title }}">
-          {% else %}
-            {{ partner.title }}
-          {% endif %}
-        </a>
-      </li>
-      {% endfor %}
-    </ul>
+    {% include partners.html loop=page.foundingoutreachpartners %}
 
     <h3>Mission Allies</h3>
 
-    <ul class="list-unstyled row">
-      {% for partner in page.missionallies %}
-      <li class="col-xs-3">
-        <a href="{{ partner.url }}">
-          {% if partner.logo != "" %}
-            <img class="partner img-fluid" src="{{ partner.logo }}" alt="{{ partner.title }}">
-          {% else %}
-            {{ partner.title }}
-          {% endif %}
-        </a>
-      </li>
-      {% endfor %}
-    </ul>
+    {% include partners.html loop=page.missionallies %}
 
     <h3>Community</h3>
 
-    <ul class="list-unstyled row">
-      {% for partner in page.supportingcommunities %}
-      <li class="col-xs-3">
-        <a href="{{ partner.url }}">
-          {% if partner.logo != "" %}
-            <img class="partner img-fluid" src="{{ partner.logo }}" alt="{{ partner.title }}">
-          {% else %}
-            {{ partner.title }}
-          {% endif %}
-        </a>
-      </li>
-      {% endfor %}
-    </ul>
+    {% include partners.html loop=page.supportingcommunities %}
   </div>
 </section>
 
@@ -133,7 +73,7 @@ layout: default
 <section id="join-our-movement" class="jumbotron jumbotron-fluid mb-0 bg-orange text-center">
   <div class="container">
     <h2 class="pb-2">Join our movement</h2>
-    <form class="form-inline validate" action="//ikanahealth.us13.list-manage.com/subscribe/post?u=6c0796213e1398669bcf79eba&amp;id=d0c0826dd7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+    <form class="form-inline validate justify-content-center" action="//ikanahealth.us13.list-manage.com/subscribe/post?u=6c0796213e1398669bcf79eba&amp;id=d0c0826dd7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
       <div class="form-group mr-1">
       	<label for="mce-EMAIL" class="sr-only">Email Address </label>
       	<input type="email" class="form-control required email" value="" placeholder="email@domain.com" name="EMAIL" id="mce-EMAIL">
@@ -158,10 +98,6 @@ layout: default
 <div class="container">
   <h2>Share</h2>
   <ul class="list-unstyled">
-    {% if site.email %}
-    <li><a href="mailto:{{ site.email }}"><i class="fa fa-envelope-o" aria-hidden="true"></i> {{ site.email }}</a></li>
-    {% endif %}
-
     {% if site.twitter %}
     <li>
       <a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter" aria-hidden="true"></i> <span class="username">Twitter</span></a>
@@ -177,6 +113,11 @@ layout: default
       <a href="{{ site.youtube }}"><i class="fa fa-youtube" aria-hidden="true"></i> <span class="username">YouTube</span></a>
     </li>
     {% endif %}
+
+    {% if site.email %}
+    <li><br>Contact<br><a href="mailto:{{ site.email }}"><i class="fa fa-envelope-o" aria-hidden="true"></i> {{ site.email }}</a></li>
+    {% endif %}
+
   </ul>
 </div>
 </section>
