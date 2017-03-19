@@ -74,9 +74,9 @@ missionallies:
 - title: University of British Columbia
   url: 
   logo: "/uploads/ubc.png"
-- title: 
+- title: NYU College of Global Public Health
   url: 
-  logo: 
+  logo: "/uploads/nyu.png"
 OurCommunities:
 - title: Alana's Foundation
   url: 
