@@ -4,12 +4,12 @@ position: 0
 film:
   title: Unseen Enemy
   description: "Narrated by Emmy® and Golden Globe award-winning actor, Jeffrey Wright
-    \ \nWritten and directed by filmmaker, Janet Tobias\n\n![Official Selection: Copenhagen
-    Film Festival](/uploads/copenhagenfilmfestival.png)"
+    \ \nWritten and directed by filmmaker, Janet Tobias\n  \n![Official Selection:
+    Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)"
 broadcastevents:
-  description: "**04 April**  \nFRANCE   |   **ARTE/WDR**\nGERMANY   |   **ARTE/WDR**
-    \ \nISRAEL   |   **YES**  \nPOLAND   |   **TVN**  \n\n**05 April**  \nHONG KONG
-    \  |   **RTHK   21:00**  \n\n**06 April**  \nESTONIA   |   **ETV2  20:00**  \nLATIN
+  description: "\n**04 April**  \nFRANCE   |   **ARTE/WDR** \nGERMANY   |   **ARTE/WDR**
+    \nISRAEL   |   **YES** \nPOLAND   |   **TVN**  \n\n**05 April**  \nHONG KONG   |
+    \  **RTHK   21:00**  \n\n**06 April**  \nESTONIA   |   **ETV2  20:00**  \nLATIN
     AMERICA   |   **DirectTV  21:00**\nVENEZUELA   |  ** DirectTV  22:00**\n\n**07
     April**\nUnited States    |   **CNN  9PM/ET  8PM/PT**\nCanada   |   **CNN  9PM/ET
     \ 8PM/PT**\n\nStarting 08 April    |   Available on CNN.com/go\n*AppleTV, Roku,
@@ -29,6 +29,7 @@ mediapartners:
 - title: CNN FILMS
   url: 
   logo: "/uploads/CNNFILMS-972431.png"
+mediapartners-additional:
 - title: VULCAN PRODUCTIONS
   url: 
   logo: "/uploads/vulcanproductions.png"
