@@ -56,9 +56,9 @@ missionallies:
 - title: Global Citizen
   url: 
   logo: "/uploads/globalcitizen_1.png"
-- title: Skoll Global Health Threats Fund
+- title: Global Moms Challenge
   url: 
-  logo: "/uploads/skollglobalthreatsfund.png"
+  logo: "/uploads/globalmomschallenge.png"
 - title: Institut Pasteur
   url: 
   logo: "/uploads/institutpasteur.png"
@@ -68,10 +68,10 @@ missionallies:
 - title: National Academy of Medicine
   url: 
   logo: "/uploads/nationalacacdenmyofmedicine.png"
-- title: Global Moms Challenge
+- title: Skoll Global Health Threats Fund
   url: 
-  logo: "/uploads/globalmomschallenge.png"
-- title: The University of British Columbia
+  logo: "/uploads/skollglobalthreatsfund.png"
+- title: University of British Columbia
   url: 
   logo: "/uploads/ubc.png"
 - title: 
