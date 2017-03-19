@@ -3,10 +3,8 @@ title: Home
 position: 0
 film:
   title: Unseen Enemy
-  description: A documentary film about the increasing threat of infectious disease
-    epidemics in the 21st century. Meet doctors, disease detectives and everyday men
-    and women around the globe who have stepped right into the horror of ebola, zika
-    and influenza epidemics and emerged deeply changed.
+  description: "Narrated by Emmy® and Golden Globe award-winning actor Jeffrey Wright
+    \ \nWritten and directed by filmmaker Janet Tobias"
 broadcastevents:
   description: "04 April  \n**France**  ARTE/WDR  \n**Germany**  ARTE/ WDR  \n**Poland**
     \ TVN  \n**Israel**   YES  \n  \n05 April  \n**Hong Kong** RTHK  9:00pm  \n  \n06
@@ -14,7 +12,7 @@ broadcastevents:
     \ \n**Estonia**  ETV2  20:00  \n\n07 April   \n**United States**  CNN  9:00 PM/ET
     \ &  8:00 PM / PT  \n**Canada**  CNN  9:00 PM/ET  &  8:00 PM / PT"
 events:
-- datetime: 19 March  19:00
+- datetime: 0001-03-19 14:03:58 -04:56
   title: CPH DOX Screening Followed by Panel Discussion
   venue: Cinemateket
   location: Copenhagen, Denmark
