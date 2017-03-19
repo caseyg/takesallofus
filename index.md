@@ -19,25 +19,25 @@ events:
   url: http://ebillet.dk/simple/buy.listtt.aspx?act=Buy&refno=40541&orgno=156&sysno=3
 mediapartners:
 - title: CNN Films
-  url:
+  url: 
   logo: "/uploads/cnnfilms.png"
 mediapartners-additional:
-- title:
-  url:
-  logo:
-presskit:
+- title: 
+  url: 
+  logo: 
+presskit: 
 foundingoutreachpartners:
-- title:
-  url:
-  logo:
+- title: 
+  url: 
+  logo: 
 missionallies:
-- title:
-  url:
-  logo:
+- title: 
+  url: 
+  logo: 
 supportingcommunities:
-- title:
-  url:
-  logo:
+- title: 
+  url: 
+  logo: 
 layout: home
 ---
 
