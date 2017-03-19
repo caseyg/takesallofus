@@ -59,6 +59,15 @@ missionallies:
 - title: NO MORE EPIDEMICS
   url: 
   logo: "/uploads/nomoreepidemics.png"
+- title: LONDON SCHOOL OF HYGIENE & TROPICAL MEDICINE
+  url: 
+  logo: "/uploads/londonschoolofhygiene.png"
+- title: NATIONAL ACADEMY OF MEDICINE
+  url: 
+  logo: "/uploads/nationalacacdenmyofmedicine.png"
+- title: 
+  url: 
+  logo: 
 supportingcommunities:
 - title: 
   url: 
