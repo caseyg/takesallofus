@@ -12,32 +12,32 @@ broadcastevents:
     \ \n**Estonia**  ETV2  20:00  \n\n07 April   \n**United States**  CNN  9:00 PM/ET
     \ &  8:00 PM / PT  \n**Canada**  CNN  9:00 PM/ET  &  8:00 PM / PT"
 events:
-- datetime: 0001-03-19 14:03:58 -04:56
+- date-and-time: 19 March  19:00
   title: CPH DOX Screening Followed by Panel Discussion
   venue: Cinemateket
   location: Copenhagen, Denmark
   url: http://ebillet.dk/simple/buy.listtt.aspx?act=Buy&refno=40541&orgno=156&sysno=3
 mediapartners:
 - title: CNN Films
-  url: 
+  url:
   logo: "/uploads/cnnfilms.png"
 mediapartners-additional:
-- title: 
-  url: 
-  logo: 
-presskit: 
+- title:
+  url:
+  logo:
+presskit:
 foundingoutreachpartners:
-- title: 
-  url: 
-  logo: 
+- title:
+  url:
+  logo:
 missionallies:
-- title: 
-  url: 
-  logo: 
+- title:
+  url:
+  logo:
 supportingcommunities:
-- title: 
-  url: 
-  logo: 
+- title:
+  url:
+  logo:
 layout: home
 ---
 
