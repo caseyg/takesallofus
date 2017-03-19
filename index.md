@@ -7,27 +7,13 @@ film:
     \ \nWritten and directed by filmmaker, Janet Tobias\n\n![Official Selection: Copenhagen
     Film Festival](/uploads/copenhagenfilmfestival.png)"
 broadcastevents:
-  description: |-
-    **04 April**
-    FRANCE   |   **ARTE/WDR**
-    GERMANY   |   **ARTE/WDR**
-    ISRAEL   |   **YES**
-    POLAND   |   **TVN**
-
-    **05 April**
-    HONG KONG   |   **RTHK   21:00**
-
-    **06 April**
-    ESTONIA   |   **ETV2  20:00**
-    LATIN AMERICA   |   **DirectTV  21:00**
-    VENEZUELA   |  ** DirectTV  22:00**
-
-    **07 April**
-    United States    |   **CNN  9PM/ET  8PM/PT**
-    Canada   |   **CNN  9PM/ET  8PM/PT**
-
-    Starting 08 April    |   Available on CNN.com/go
-    *AppleTV, Roku, Amazon Fire, and iPad*
+  description: "**04 April**  \nFRANCE   |   **ARTE/WDR**\nGERMANY   |   **ARTE/WDR**
+    \ \nISRAEL   |   **YES**  \nPOLAND   |   **TVN**  \n\n**05 April**  \nHONG KONG
+    \  |   **RTHK   21:00**  \n\n**06 April**  \nESTONIA   |   **ETV2  20:00**  \nLATIN
+    AMERICA   |   **DirectTV  21:00**\nVENEZUELA   |  ** DirectTV  22:00**\n\n**07
+    April**\nUnited States    |   **CNN  9PM/ET  8PM/PT**\nCanada   |   **CNN  9PM/ET
+    \ 8PM/PT**\n\nStarting 08 April    |   Available on CNN.com/go\n*AppleTV, Roku,
+    Amazon Fire, and iPad*"
 events:
 - date-and-time: Sun. 19 March  19:00
   title: CPH:DOX Screening + Director's Talk with featured guests
@@ -114,6 +100,23 @@ OurCommunities:
 - title: No More Epidemics
   url: 
   logo: "/uploads/nomoreepidemics.png"
+director:
+  pullquote-text: "“You have an enemy you can not hide from. Where are you going to
+    go? Who are you going to run from?” **—DR. SOKA MOSES**"
+  content-text: |-
+    > I walked away from working on this film with a deep understanding that what I do affects the people around me, everyone from loved ones to passers-by. I could sit next to a child, a grandmother, a man undergoing cancer treatment and give them the flu (or any other disease) and hospitalize or kill them without even knowing it. Each of us have a role to play, and it won’t work unless we all contribute.
+    **—Janet Tobias, Director’s Statement**
+takeaction-text:
+- |-
+  **[Petition Against Pandemics](https://www.globalcitizen.org/en/action/g20-row-pandemics-petition/)**
+
+  *Unite with global citizens of all nations and call on our G20 leaders to prioritize pandemic preparedness within national budgets and ensure our collective global health security is a priority on the G20 agenda this July 2017.*
+
+  ***In Partnership with [Global Citizen](https://www.globalcitizen.org/)***
+- |-
+  **Join our Movement**
+
+  *Our community of action is growing. Follow us on Facebook, Instagram and Twitter to check out our latest videos, information, events, and calls to action that support the fight against emerging infectious diseases.*
 layout: home
 ---
 

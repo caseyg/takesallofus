@@ -23,8 +23,17 @@ $teal--light: #71B9AF;
 
 .bg-orange, .bg-teal--dark {
   color: $light;
+}
+
+.bg-orange {
   a:link, a:visited {
     color: $teal;
+  }
+}
+
+.bg-teal--dark {
+  a:link, a:visited {
+    color: $teal--light;
   }
 }
 
@@ -45,6 +54,11 @@ $teal--light: #71B9AF;
 
 #broadcast-events {
   background-image: url('/assets/map.png');
+  background-size: cover;
+}
+
+#directors-statement {
+  background-image: url('/assets/director.jpg');
   background-size: cover;
 }
 
