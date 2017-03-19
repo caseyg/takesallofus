@@ -29,7 +29,6 @@ mediapartners:
 - title: CNN FILMS
   url: 
   logo: "/uploads/CNNFILMS-972431.png"
-mediapartners-additional:
 - title: VULCAN PRODUCTIONS
   url: 
   logo: "/uploads/vulcanproductions.png"
@@ -108,7 +107,7 @@ director:
     **—Janet Tobias, Director’s Statement**
 takeaction-text:
 - |-
-  **[Petition Against Pandemics](https://www.globalcitizen.org/en/action/g20-row-pandemics-petition/)**
+  **[Petition Against Pandemics](http://bit.ly/petitionpandemics)**
 
   *Unite with global citizens of all nations and call on our G20 leaders to prioritize pandemic preparedness within national budgets and ensure our collective global health security is a priority on the G20 agenda this July 2017.*
 
