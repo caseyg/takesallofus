@@ -40,10 +40,25 @@ foundingoutreachpartners:
 - title: JOHNSON & JOHNSON
   url: 
   logo: "/uploads/15-Johnson-Johnson-Logo%20copy.png"
-missionallies:
-- title: 
+- title: WELLCOME TRUST
   url: 
-  logo: 
+  logo: "/uploads/wellcometrust.png"
+- title: BILL & MELINDA GATES FOUNDATION
+  url: 
+  logo: "/uploads/gatesfoundation.png"
+missionallies:
+- title: GLOBAL CITIZEN
+  url: 
+  logo: "/uploads/globalcitizen_1.png"
+- title: SKOLL GLOBAL THREATS FUND
+  url: 
+  logo: "/uploads/skollglobalthreatsfund.png"
+- title: INSTITUT PASTEUR
+  url: 
+  logo: "/uploads/institutpasteur.png"
+- title: NO MORE EPIDEMICS
+  url: 
+  logo: "/uploads/nomoreepidemics.png"
 supportingcommunities:
 - title: 
   url: 
