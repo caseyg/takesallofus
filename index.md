@@ -41,7 +41,7 @@ mediapartners-additional:
 - title: WDR
   url: 
   logo: "/uploads/wdr.png"
-presskit: 
+presskit: https://www.dropbox.com/s/digipob8bxe0amf/UnseenEnemy_PressKit._March2017.pdf?dl=0
 presentingpartners:
 - title: Johnson & Johnson
   url: 
