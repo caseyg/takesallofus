@@ -7,27 +7,13 @@ film:
     \ \nWritten and directed by filmmaker, Janet Tobias\n\n![Official Selection: Copenhagen
     Film Festival](/uploads/copenhagenfilmfestival.png)"
 broadcastevents:
-  description: |-
-    **04 April**
-    FRANCE   |   **ARTE/WDR**
-    GERMANY   |   **ARTE/WDR**
-    ISRAEL   |   **YES**
-    POLAND   |   **TVN**
-
-    **05 April**
-    HONG KONG   |   **RTHK   21:00**
-
-    **06 April**
-    ESTONIA   |   **ETV2  20:00**
-    LATIN AMERICA   |   **DirectTV  21:00**
-    VENEZUELA   |  ** DirectTV  22:00**
-
-    **07 April**
-    United States    |   **CNN  9PM/ET  8PM/PT**
-    Canada   |   **CNN  9PM/ET  8PM/PT**
-
-    Starting 08 April    |   Available on CNN.com/go
-    *AppleTV, Roku, Amazon Fire, and iPad*
+  description: "**04 April**  \nFRANCE   |   **ARTE/WDR**\nGERMANY   |   **ARTE/WDR**
+    \ \nISRAEL   |   **YES**  \nPOLAND   |   **TVN**  \n\n**05 April**  \nHONG KONG
+    \  |   **RTHK   21:00**  \n\n**06 April**  \nESTONIA   |   **ETV2  20:00**  \nLATIN
+    AMERICA   |   **DirectTV  21:00**\nVENEZUELA   |  ** DirectTV  22:00**\n\n**07
+    April**\nUnited States    |   **CNN  9PM/ET  8PM/PT**\nCanada   |   **CNN  9PM/ET
+    \ 8PM/PT**\n\nStarting 08 April    |   Available on CNN.com/go\n*AppleTV, Roku,
+    Amazon Fire, and iPad*"
 events:
 - date-and-time: Sun. 19 March  19:00
   title: CPH:DOX Screening + Director's Talk with featured guests
