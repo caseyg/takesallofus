@@ -27,11 +27,11 @@ events:
 mediapartners:
 - title: CNN FILMS
   url: 
-  logo: "/uploads/cnnAsset%201.png"
+  logo: "/uploads/CNNFILMS-972431.png"
 mediapartners-additional:
 - title: VULCAN PRODUCTIONS
   url: 
-  logo: "/uploads/vulcanAsset%201.png"
+  logo: "/uploads/vulcanproductions.png"
 - title: SIERRA/TANGO PRODUCTIONS
   url: 
   logo: "/uploads/sierratangoproductions.png"
