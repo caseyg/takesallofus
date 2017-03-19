@@ -15,6 +15,19 @@ $teal--light: #71B9AF;
 .teal--dark {     color: $teal--dark;}
 .teal--light {    color: $teal--light;}
 
+.light {
+  a:link, a:visited {
+    color: $teal--light;
+  }
+}
+
+.bg-orange, .bg-teal--dark {
+  color: $light;
+  a:link, a:visited {
+    color: $teal;
+  }
+}
+
 .bg-light {        background-color: $dark;}
 .bg-dark {        background-color: $dark;}
 .bg-orange {      background-color: $orange;}

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="jumbotron jumbotron-fluid bg-teal--dark light text-center mb-0" id="unseen-enemy">
+<div id="unseen-enemy" class="jumbotron jumbotron-fluid bg-teal--dark light text-center mb-0">
   <div class="container">
       <p>It Takes All of Us Presents</p>
       <h1>{{ page.film.title }}</h1>
@@ -10,7 +10,7 @@ layout: default
   </div>
 </div>
 
-<div class="jumbotron jumbotron-fluid bg-teal--dark light text-center mb-0" id="content">
+<div id="content" class="jumbotron jumbotron-fluid bg-teal--dark light text-center mb-0">
   <div class="container">
       <div class="row">
         <div class="col-xs-12 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">{{ content }}</div>
@@ -18,64 +18,112 @@ layout: default
   </div>
 </div>
 
-<div class="container-fluid bg-dark" id="trailer">
+<div id="trailer" class="container-fluid bg-dark">
   <iframe width="640" height="360" src="https://www.youtube.com/embed/IfvX8_nEMxg?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<div class="jumbotron jumbotron-fluid bg-dark light mb-0" id="broadcast-events">
+<div id="broadcast-events" class="jumbotron jumbotron-fluid bg-dark light mb-0 text-center">
   <div class="container">
-    <p>World premiere on March 19th at<br> Copenhagen International Documentary Film Festival 2017</p>
-    <h2>Watch the Film<br> Global Broadcast</h2>
-    {{ page.broadcastevents.schedule }}
+    <h2>Global Broadcast</h2>
+    {{ page.broadcastevents.description | markdownify }}
   </div>
 </div>
 
-<section id="special-events" class="jumbotron jumbotron-fluid mb-0 bg-teal light">
-  {% for event in page.events %}
-    {{ event.date | date: "%B %d, %Y" }} <br>
-    <strong>{{ event.title }}</strong> <br>
-    {{ event.location }} <br>
-    <small>{{ event.host }}</small>
-  {% endfor %}
+<section id="screenings-special-events" class="jumbotron jumbotron-fluid mb-0 bg-teal light">
+  <div class="container">
+    <h2>Screenings &amp; Special Events</h2>
+    {% for event in page.events %}
+      {% if event.datetime != "" %}{{ event.datetime }} <br>{% endif %}
+      {% if event.title != "" %}<strong>{{ event.title }}</strong><br>{% endif %}
+      {% if event.venue != "" %}{{ event.venue }} <br>{% endif %}
+      {% if event.location != "" %}{{ event.location }} <br>{% endif %}
+      {% if event.url != "" %}<a href="{{ event.url }}">Purchase Tickets</a>{% endif %}
+    {% endfor %}
+  </div>
 </section>
 
-    <section id="media-partners" class="jumbotron jumbotron-fluid mb-0 bg-teal--dark">
+<section id="media-partners" class="jumbotron jumbotron-fluid mb-0 bg-teal--dark">
+  <div class="container">
+    <h2 class="text-center">Partners &amp; Allies</h2>
+    <ul class="list-unstyled row">
       {% for partner in page.mediapartners %}
+      <li class="col-xs-3">
         <a href="{{ partner.url }}">
           {% if partner.logo != "" %}
-            <img class="partner" src="{{ partner.logo }}" alt="{{ partner.title }}">
+            <img class="partner img-fluid" src="{{ partner.logo }}" alt="{{ partner.title }}">
           {% else %}
             {{ partner.title }}
           {% endif %}
         </a>
+      </li>
       {% endfor %}
+    </ul>
+  </div>
+</section>
 
-    </section>
-    <section id="starts-with-you" class="jumbotron jumbotron-fluid mb-0 bg-orange">
+<!--
+<section id="starts-with-you" class="jumbotron jumbotron-fluid mb-0 bg-orange">
 
-    </section>
+</section>
 
-    <section id="join-our-movement" class="jumbotron jumbotron-fluid mb-0 bg-orange">
+<section id="join-our-movement" class="jumbotron jumbotron-fluid mb-0 bg-orange">
 
-    </section>
+</section>
 
-    <section id="partners" class="jumbotron jumbotron-fluid mb-0 bg-orange">
+<section id="partners" class="jumbotron jumbotron-fluid mb-0 bg-orange">
 
-    </section>
+</section>
+-->
 
-    <section id="share" class="jumbotron jumbotron-fluid mb-0 bg-orange">
-
-    </section>
-
-    <section id="content" class="jumbotron jumbotron-fluid mb-0 bg-orange">
-      <ul class="post-list mb-0">
-        {% for post in site.posts %}
-          <li>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-            <h2>
-              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-            </h2>
+<section id="share" class="jumbotron jumbotron-fluid mb-0 bg-orange">
+  <div class="footer-col-wrapper">
+    <div class="footer-col footer-col-1">
+      <ul class="contact-list">
+        <li>
+          {% if site.author %}
+            {{ site.author | escape }}
+          {% else %}
+            {{ site.title | escape }}
+          {% endif %}
           </li>
-        {% endfor %}
+          {% if site.email %}
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {% endif %}
       </ul>
-    </section>
+    </div>
+
+    <div class="footer-col footer-col-2">
+      <ul class="social-media-list">
+        {% if site.twitter %}
+        <li>
+          <a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter" aria-hidden="true"></i> <span class="username">Twitter</span></a>
+        </li>
+        {% endif %}
+        {% if site.instagram %}
+        <li>
+          <a href="https://instagram.com/{{ site.instagram }}"><i class="fa fa-instagram" aria-hidden="true"></i> <span class="username">Instagram</span></a>
+        </li>
+        {% endif %}
+        {% if site.youtube %}
+        <li>
+          <a href="{{ site.youtube }}"><i class="fa fa-youtube" aria-hidden="true"></i> <span class="username">YouTube</span></a>
+        </li>
+        {% endif %}
+      </ul>
+    </div>
+</section>
+
+<!--
+<section id="content" class="jumbotron jumbotron-fluid mb-0 bg-orange">
+  <ul class="post-list mb-0">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+-->
