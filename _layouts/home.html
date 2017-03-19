@@ -33,7 +33,7 @@ layout: default
   <div class="container">
     <h2>Screenings &amp; Special Events</h2>
     {% for event in page.events %}
-      {% if event.datetime != "" %}{{ event.datetime }} <br>{% endif %}
+      {% if event.date-and-time != "" %}{{ event.date-and-time }} <br>{% endif %}
       {% if event.title != "" %}<strong>{{ event.title }}</strong><br>{% endif %}
       {% if event.venue != "" %}{{ event.venue }} <br>{% endif %}
       {% if event.location != "" %}{{ event.location }} <br>{% endif %}
@@ -76,41 +76,29 @@ layout: default
 -->
 
 <section id="share" class="jumbotron jumbotron-fluid mb-0 bg-orange">
-  <div class="footer-col-wrapper">
-    <div class="footer-col footer-col-1">
-      <ul class="contact-list">
-        <li>
-          {% if site.author %}
-            {{ site.author | escape }}
-          {% else %}
-            {{ site.title | escape }}
-          {% endif %}
-          </li>
-          {% if site.email %}
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          {% endif %}
-      </ul>
-    </div>
+<div class="container">
+  <ul class="list-unstyled">
+    {% if site.email %}
+    <li><a href="mailto:{{ site.email }}"><i class="fa fa-envelope-o" aria-hidden="true"></i> {{ site.email }}</a></li>
+    {% endif %}
 
-    <div class="footer-col footer-col-2">
-      <ul class="social-media-list">
-        {% if site.twitter %}
-        <li>
-          <a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter" aria-hidden="true"></i> <span class="username">Twitter</span></a>
-        </li>
-        {% endif %}
-        {% if site.instagram %}
-        <li>
-          <a href="https://instagram.com/{{ site.instagram }}"><i class="fa fa-instagram" aria-hidden="true"></i> <span class="username">Instagram</span></a>
-        </li>
-        {% endif %}
-        {% if site.youtube %}
-        <li>
-          <a href="{{ site.youtube }}"><i class="fa fa-youtube" aria-hidden="true"></i> <span class="username">YouTube</span></a>
-        </li>
-        {% endif %}
-      </ul>
-    </div>
+    {% if site.twitter %}
+    <li>
+      <a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter" aria-hidden="true"></i> <span class="username">Twitter</span></a>
+    </li>
+    {% endif %}
+    {% if site.instagram %}
+    <li>
+      <a href="https://instagram.com/{{ site.instagram }}"><i class="fa fa-instagram" aria-hidden="true"></i> <span class="username">Instagram</span></a>
+    </li>
+    {% endif %}
+    {% if site.youtube %}
+    <li>
+      <a href="{{ site.youtube }}"><i class="fa fa-youtube" aria-hidden="true"></i> <span class="username">YouTube</span></a>
+    </li>
+    {% endif %}
+  </ul>
+</div>
 </section>
 
 <!--
