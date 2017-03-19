@@ -25,19 +25,16 @@ events:
   location: Copenhagen, Denmar
   url: http://www.nfbio.dk/ticketflow/2017/16708
 mediapartners:
-- title: CNN Films
+- title: CNN FILMS
   url: 
-  logo: "/uploads/cnnfilms.png"
+  logo: "/uploads/cnnAsset%201.png"
 mediapartners-additional:
-- title: Vulcan Productions
+- title: VULCAN PRODUCTIONS
   url: 
-  logo: 
-- title: Sierra Tango Productions
+  logo: "/uploads/vulcanAsset%201.png"
+- title: SIERRA/TANGO PRODUCTIONS
   url: 
-  logo: 
-- title: 
-  url: 
-  logo: 
+  logo: "/uploads/sierratangoproductions.png"
 presskit: 
 foundingoutreachpartners:
 - title: 
