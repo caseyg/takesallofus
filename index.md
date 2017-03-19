@@ -7,10 +7,10 @@ film:
     \ \nWritten and directed by filmmaker, Janet Tobias\n  \n![Official Selection:
     Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)"
 broadcastevents:
-  description: "\n**04 April**  \nFRANCE   |   **ARTE/WDR** \nGERMANY   |   **ARTE/WDR**
-    \nISRAEL   |   **YES** \nPOLAND   |   **TVN**  \n\n**05 April**  \nHONG KONG   |
-    \  **RTHK   21:00**  \n\n**06 April**  \nESTONIA   |   **ETV2  20:00**  \nLATIN
-    AMERICA   |   **DirectTV  21:00**\nVENEZUELA   |  ** DirectTV  22:00**\n\n**07
+  description: "  \n**04 April**  \nFRANCE   |   **ARTE/WDR**  \n  GERMANY   |   **ARTE/WDR**
+    \ \n  ISRAEL   |   **YES**  \n  POLAND   |   **TVN**  \n\n**05 April**  \nHONG
+    KONG   |   **RTHK   21:00**  \n\n**06 April**  \nESTONIA   |   **ETV2  20:00**
+    \ \nLATIN AMERICA   |   **DirectTV  21:00**\nVENEZUELA   |  ** DirectTV  22:00**\n\n**07
     April**\nUnited States    |   **CNN  9PM/ET  8PM/PT**\nCanada   |   **CNN  9PM/ET
     \ 8PM/PT**\n\nStarting 08 April    |   Available on CNN.com/go\n*AppleTV, Roku,
     Amazon Fire, and iPad*"
@@ -104,8 +104,13 @@ director:
   pullquote-text: "“You have an enemy you can not hide from. Where are you going to
     go? Who are you going to run from?” **—DR. SOKA MOSES**"
   content-text: |-
-    > I walked away from working on this film with a deep understanding that what I do affects the people around me, everyone from loved ones to passers-by. I could sit next to a child, a grandmother, a man undergoing cancer treatment and give them the flu (or any other disease) and hospitalize or kill them without even knowing it. Each of us have a role to play, and it won’t work unless we all contribute.
-    **—Janet Tobias, Director’s Statement**
+    >
+    >*I walked away from working on this film with a deep understanding that what I do affects the people around me, everyone from loved ones to passers-by. I could sit next to a child, a grandmother, a man undergoing cancer treatment and give them the flu (or any other disease) and hospitalize or kill them without even knowing it. Each of us have a role to play, and it won’t work unless we all contribute.*
+    >
+    >**Janet Tobias, Director’s Statement**
+    >
+    >
+    ** *What will it take for the world to see, that now more than ever we’re all the frontline of global health?** *
 takeaction-text:
 - |-
   **[Petition Against Pandemics](http://bit.ly/petitionpandemics)**
@@ -120,8 +125,6 @@ takeaction-text:
 layout: home
 ---
 
-**In the 21st century, we are all connected.** Population growth, mass urbanization, deforestation, climate change and increased travel have dramatically increased the risk that familiar diseases will spread and mutate, and new ones will emerge. As people enter new spheres of biodiversity, they come into closer contact with other species, increasing the risk of viruses jumping from animals to humans, and then spreading more widely.
+*In the 21st century, we are all connected. Population growth, mass urbanization, deforestation, climate change and increased travel have dramatically increased the risk that familiar diseases will spread and mutate, and new ones will emerge. As people enter new spheres of biodiversity, they come into closer contact with other species, increasing the risk of viruses jumping from animals to humans, and then spreading more widely.*
 
-Unseen Enemy is an essential exploration into the increasing threat of emerging infectious disease outbreaks and their impacts on society. Meet the healthcare workers, disease detectives and families who have experienced the horror and devastation of Ebola, Zika and Influenza epidemics and emerged deeply changed.
-
-Health emergencies bring out the best and worst of human behavior. Their effects reach far beyond the tolls of sickness and death. **What will it take for the world to see, that now more than ever we’re all the frontline of global health?**
+*Unseen Enemy is an essential exploration into the increasing threat of emerging infectious disease outbreaks and their impacts on society. Meet healthcare workers, disease detectives and families who have experienced the horror and devastation of Ebola, Zika and Influenza epidemics and emerged deeply changed.*
