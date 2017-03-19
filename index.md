@@ -80,6 +80,9 @@ missionallies:
 - title: University of British Columbia
   url: 
   logo: "/uploads/ubc.png"
+- title: Boston Public Health
+  url: 
+  logo: "/uploads/bostonpublichealth.png"
 OurCommunities:
 - title: Alana's Foundation
   url: 
