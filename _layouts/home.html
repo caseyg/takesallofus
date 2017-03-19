@@ -50,17 +50,23 @@ layout: default
   <div class="container">
     <h2>Partners &amp; Allies</h2>
 
-    <h3>Supporting Partners</h3>
+    <hr>
 
-    {% include partners.html loop=page.foundingoutreachpartners %}
+    <h3 class="py-3">Supporting Partners</h3>
 
-    <h3>Mission Allies</h3>
+    {% include partners.html loop=page.presentingpartners %}
+
+    <hr>
+
+    <h3 class="py-3">Mission Allies</h3>
 
     {% include partners.html loop=page.missionallies %}
 
-    <h3>Community</h3>
+    <hr>
 
-    {% include partners.html loop=page.supportingcommunities %}
+    <h3 class="py-3">Community</h3>
+
+    {% include partners.html loop=page.OurCommunities %}
   </div>
 </section>
 
