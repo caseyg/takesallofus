@@ -37,11 +37,13 @@ layout: default
   <div class="container">
     <h2>Screenings &amp; Special Events</h2>
     {% for event in page.events %}
-      {% if event.date-and-time != "" %}{{ event.date-and-time }} <br>{% endif %}
-      {% if event.title != "" %}<strong>{{ event.title }}</strong><br>{% endif %}
-      {% if event.venue != "" %}{{ event.venue }} <br>{% endif %}
-      {% if event.location != "" %}{{ event.location }} <br>{% endif %}
-      {% if event.url != "" %}<a href="{{ event.url }}">Purchase Tickets</a>{% endif %}
+      <p class="mb-3">
+        {% if event.date-and-time != "" %}{{ event.date-and-time }} <br>{% endif %}
+        {% if event.title != "" %}<strong>{{ event.title }}</strong><br>{% endif %}
+        {% if event.venue != "" %}{{ event.venue }} <br>{% endif %}
+        {% if event.location != "" %}{{ event.location }} <br>{% endif %}
+        {% if event.url != "" %}<a href="{{ event.url }}">Purchase Tickets</a>{% endif %}
+      </p>
     {% endfor %}
   </div>
 </section>
