@@ -35,43 +35,70 @@ mediapartners-additional:
 - title: SIERRA/TANGO PRODUCTIONS
   url: 
   logo: "/uploads/sierratangoproductions.png"
-presskit: 
-foundingoutreachpartners:
-- title: JOHNSON & JOHNSON
+- title: ARTE
+  url: 
+  logo: "/uploads/arte.png"
+- title: WDR
+  url: 
+  logo: "/uploads/wdr.png"
+presskit: https://www.dropbox.com/s/digipob8bxe0amf/UnseenEnemy_PressKit._March2017.pdf?dl=0
+presentingpartners:
+- title: Johnson & Johnson
   url: 
   logo: "/uploads/15-Johnson-Johnson-Logo%20copy.png"
-- title: WELLCOME TRUST
+- title: Wellcome Trust
   url: 
   logo: "/uploads/wellcometrust.png"
-- title: BILL & MELINDA GATES FOUNDATION
+- title: The Bill & Melinda Gates Foundation
   url: 
   logo: "/uploads/gatesfoundation.png"
 missionallies:
-- title: GLOBAL CITIZEN
+- title: Global Citizen
   url: 
   logo: "/uploads/globalcitizen_1.png"
-- title: SKOLL GLOBAL THREATS FUND
+- title: Global Moms Challenge
   url: 
-  logo: "/uploads/skollglobalthreatsfund.png"
-- title: INSTITUT PASTEUR
+  logo: "/uploads/globalmomschallenge.png"
+- title: Global Reporting Centre
+  url: 
+  logo: "/uploads/globalreportingcentre.png"
+- title: Institut Pasteur
   url: 
   logo: "/uploads/institutpasteur.png"
-- title: NO MORE EPIDEMICS
-  url: 
-  logo: "/uploads/nomoreepidemics.png"
-- title: LONDON SCHOOL OF HYGIENE & TROPICAL MEDICINE
+- title: London School of Hygiene and Tropical Medicine
   url: 
   logo: "/uploads/londonschoolofhygiene.png"
-- title: NATIONAL ACADEMY OF MEDICINE
+- title: National Academy of Medicine
   url: 
   logo: "/uploads/nationalacacdenmyofmedicine.png"
-- title: 
+- title: NYU College of Global Public Health
   url: 
-  logo: 
-supportingcommunities:
-- title: 
+  logo: "/uploads/nyu.png"
+- title: Skoll Global Health Threats Fund
   url: 
-  logo: 
+  logo: "/uploads/skollglobalthreatsfund.png"
+- title: University of British Columbia
+  url: 
+  logo: "/uploads/ubc.png"
+- title: Boston Public Health
+  url: 
+  logo: "/uploads/bostonpublichealth.png"
+OurCommunities:
+- title: Alana's Foundation
+  url: 
+  logo: "/uploads/alanasfoundation.png"
+- title: Ashley McCormick Foundation
+  url: 
+  logo: "/uploads/theashleymccormickfoundation.png"
+- title: Families Fighting Flu
+  url: 
+  logo: "/uploads/familiesfightingfluinc.png"
+- title: Fight the Flu Foundation
+  url: 
+  logo: "/uploads/fighttheflufoundation.png"
+- title: No More Epidemics
+  url: 
+  logo: "/uploads/nomoreepidemics.png"
 layout: home
 ---
 
