@@ -14,21 +14,27 @@ broadcastevents:
     States**  CNN  9PM/ET  8PM/PT\n**Canada**  CNN  9PM/ET  8PM / PT\n\n08 April **\nAvailable
     on CNN.com/go \n*AppleTV, Roku, Amazon Fire, and iPad*"
 events:
-- date-and-time: 19 March  19:00
-  title: CPH DOX Screening Followed by Panel Discussion
+- date-and-time: Sun. 19 March  19:00
+  title: CPH:DOX Screening + Director's Talk with featured guests
   venue: Cinemateket
   location: Copenhagen, Denmark
   url: http://ebillet.dk/simple/buy.listtt.aspx?act=Buy&refno=40541&orgno=156&sysno=3
-- date-and-time: 22 March 19:00
-  title: 'CPH DOX Screening '
-  venue: some palace
-  location: copenhagen
-  url: www.facebook.com
+- date-and-time: Wed. 22 March 19:00
+  title: 'CPH:DOX Screening '
+  venue: Nordisk Film Palads
+  location: Copenhagen, Denmar
+  url: http://www.nfbio.dk/ticketflow/2017/16708
 mediapartners:
 - title: CNN Films
   url: 
   logo: "/uploads/cnnfilms.png"
 mediapartners-additional:
+- title: Vulcan Productions
+  url: 
+  logo: 
+- title: Sierra Tango Productions
+  url: 
+  logo: 
 - title: 
   url: 
   logo: 
