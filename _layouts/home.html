@@ -6,7 +6,35 @@ layout: default
   <div class="container">
       <p>It Takes All of Us Presents</p>
       <h1>{{ page.film.title }}</h1>
-      <p class="lead">{{ page.film.description }}</p>
+      <div class="lead">{{ page.film.description | markdownify }}</div>
+      <hr>
+      <ul class="list-unstyled row">
+        {% for partner in page.mediapartners %}
+        <li class="col-xs-3">
+          <a href="{{ partner.url }}">
+            {% if partner.logo != "" %}
+              <img class="partner img-fluid" src="{{ partner.logo }}" alt="{{ partner.title }}">
+            {% else %}
+              {{ partner.title }}
+            {% endif %}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+      <hr>
+      <ul class="list-unstyled row">
+        {% for partner in page.mediapartners-additional %}
+        <li class="col-xs-3">
+          <a href="{{ partner.url }}">
+            {% if partner.logo != "" %}
+              <img class="partner img-fluid" src="{{ partner.logo }}" alt="{{ partner.title }}">
+            {% else %}
+              {{ partner.title }}
+            {% endif %}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
   </div>
 </div>
 
@@ -42,11 +70,46 @@ layout: default
   </div>
 </section>
 
-<section id="media-partners" class="jumbotron jumbotron-fluid mb-0 bg-teal--dark">
+<section id="media-partners" class="jumbotron jumbotron-fluid mb-0 bg-teal--dark text-center">
   <div class="container">
-    <h2 class="text-center">Partners &amp; Allies</h2>
+    <h2>Partners &amp; Allies</h2>
+
+    <h3>Supporting Partners</h3>
+
     <ul class="list-unstyled row">
-      {% for partner in page.mediapartners %}
+      {% for partner in page.foundingoutreachpartners %}
+      <li class="col-xs-3">
+        <a href="{{ partner.url }}">
+          {% if partner.logo != "" %}
+            <img class="partner img-fluid" src="{{ partner.logo }}" alt="{{ partner.title }}">
+          {% else %}
+            {{ partner.title }}
+          {% endif %}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <h3>Mission Allies</h3>
+
+    <ul class="list-unstyled row">
+      {% for partner in page.missionallies %}
+      <li class="col-xs-3">
+        <a href="{{ partner.url }}">
+          {% if partner.logo != "" %}
+            <img class="partner img-fluid" src="{{ partner.logo }}" alt="{{ partner.title }}">
+          {% else %}
+            {{ partner.title }}
+          {% endif %}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <h3>Community</h3>
+
+    <ul class="list-unstyled row">
+      {% for partner in page.supportingcommunities %}
       <li class="col-xs-3">
         <a href="{{ partner.url }}">
           {% if partner.logo != "" %}
