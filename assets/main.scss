@@ -1,39 +1,50 @@
 ---
 ---
 
-@charset "utf-8";
+$light: #FFFFFF;
+$dark: #041419;
+$orange: #F9A51A;
+$teal: #043C3A;
+$teal--dark: #04262B;
+$teal--light: #71B9AF;
 
-// Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+.light {           color: $light;}
+.dark {           color: $dark;}
+.orange {         color: $orange;}
+.teal {           color: $teal;}
+.teal--dark {     color: $teal--dark;}
+.teal--light {    color: $teal--light;}
 
-$spacing-unit:     30px;
+.light {
+  a:link, a:visited {
+    color: $teal--light;
+  }
+}
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+.bg-orange, .bg-teal--dark {
+  color: $light;
+  a:link, a:visited {
+    color: $teal;
+  }
+}
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+.bg-light {        background-color: $dark;}
+.bg-dark {        background-color: $dark;}
+.bg-orange {      background-color: $orange;}
+.bg-teal {        background-color: $teal;}
+.bg-teal--dark {  background-color: $teal--dark;}
+.bg-teal--light { background-color: $teal--light;}
 
-// Width of the content area
-$content-width:    800px;
+img.partner {
+  width: 50%;
+}
 
-$on-palm:          600px;
-$on-laptop:        800px;
+#unseen-enemy {
+  background-image: url('/assets/texture.jpg');
+  background-size: cover;
+}
 
-// Minima also includes a mixin for defining media queries.
-// Use media queries like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-
-// Import partials from the `minima` theme.
-@import "minima";
+#broadcast-events {
+  background-image: url('/assets/map.png');
+  background-size: cover;
+}
