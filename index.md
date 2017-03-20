@@ -1,6 +1,5 @@
 ---
 title: Home
-published: false
 position: 0
 film:
   title: Unseen Enemy
@@ -10,7 +9,7 @@ film:
 broadcastevents:
   description: |-
     **04 April**\
-    FRANCE  |  **ARTE/WDR**\
+    FRANCE  |  **ARTE/WDR**
     GERMANY  |  **ARTE/WDR**
     ISRAEL   |   **YES**
     POLAND   |   **TVN**
