@@ -9,7 +9,7 @@ film:
 broadcastevents:
   description: |-
     **04 April**\
-    FRANCE: **[ARTE](http://www.arte.fr)/WDR**\
+    FRANCE: **[ARTE](http://www.arte.fr)/[WDR](http://www.wdr.de)**\
     GERMANY: **ARTE/WDR**
     ISRAEL: **YES**
     POLAND: **TVN**
