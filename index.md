@@ -44,9 +44,9 @@ events:
   url: http://www.nfbio.dk/ticketflow/2017/16708
 - date-and-time: Thursday 23 March at 19:00
   title: ARTE/WDR Presents Unseen Enemy
-  venue: Museum Ludwig
+  venue: Filmforum / Kino in Museum Ludwig
   location: Köln, Germany
-  url: Tickets on Sale Soon
+  url: free entrance
 mediapartners:
 - title: CNN FILMS
   url: 
