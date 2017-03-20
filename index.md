@@ -107,15 +107,15 @@ OurCommunities:
   url: 
   logo: "/uploads/nomoreepidemics.png"
 director:
-  pullquote-text: "### **\"You have an enemy you can not hide from. Where are you
-    going to go? Who are you going to run from?**” \n\n### Dr. J Soka Moses"
-  content-text: "*I walked away from working on this film with a deep understanding
+  pullquote-text: "### \"You have an enemy you can not hide from. Where are you going
+    to go? Who are you going to run from?” \n\n### Dr. J Soka Moses  \n\n  "
+  content-text: "  \n\n*I walked away from working on this film with a deep understanding
     that what I do affects the people around me, everyone from loved ones to passers-by.
     I could sit next to a child, a grandmother, a man undergoing cancer treatment
     and give them the flu (or any other disease) and hospitalize or kill them without
     even knowing it. Each of us have a role to play, and it won’t work unless we all
     contribute.*\n\n**What will it take for the world to see, that now more than ever
-    we’re all the frontline of global health?**\n\n> **Janet Tobias, Director**\n\n## "
+    we’re all the frontline of global health?**\n\n**Janet Tobias, Director**"
 takeaction-text:
 - |-
   **[Sign the Petition Against Pandemics](http://bit.ly/petitionpandemics)**
