@@ -8,12 +8,13 @@ film:
     Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)"
 broadcastevents:
   description: "**04 April**  \nFRANCE   |   **ARTE/WDR**\nGERMANY   |   **ARTE/WDR**\nISRAEL
-    \  |   **YES**\nPOLAND   |   **TVN**\n\n**05 April**\nHONG KONG   |   **RTHK   21:00**\n\n**06
-    April**\nESTONIA   |   **ETV2  20:00**\nLATIN AMERICA   |   **DirectTV  21:00**\nVENEZUELA
-    \  |  ** DirectTV  22:00**\n\n**07 April**\nUnited States    |   **CNN  9PM/ET
-    \ 8PM/PT**\nCanada   |   **CNN  9PM/ET  8PM/PT**\n\n**08 April**\nGlobally    |
-    \  **Available on CNN.com/go**\n*AppleTV, Roku, Amazon Fire, and iPad*\n\n*Check
-    back for more broadcasts locations and times.*"
+    \  |   **YES**\nPOLAND   |   **TVN**  \n  \n**05 April**  \nHONG KONG   |   **RTHK
+    \  21:00**\n\n**06 April**  \nESTONIA   |   **ETV2  20:00**  \nLATIN AMERICA   |
+    \  **DirectTV  21:00**  \nVENEZUELA   |  **DirectTV  22:00**  \n  \n**07 April**
+    \ \nUnited States    |   **CNN  9PM/ET  8PM/PT**  \nCanada   |   **CNN  9PM/ET
+    \ 8PM/PT**  \n  \n**08 April**  \nGlobally    |   **Available on CNN.com/go**
+    \ \nAppleTV, Roku, Amazon Fire, and iPad  \n  \n*Check back for more broadcasts
+    locations and times.*"
 events:
 - date-and-time: Sunday 19 March at 19:00
   title: CPH:DOX Screening + Director's Talk with Peter Piot
@@ -106,23 +107,24 @@ OurCommunities:
   url: 
   logo: "/uploads/nomoreepidemics.png"
 director:
-  pullquote-text: "“ **You have an enemy you can not hide from.  **\n\n**Where are
-    you going to go?  **\n\n**Who are you going to run from?**” \n\nDr. J Soka Moses"
-  content-text: |-
-    *I walked away from working on this film with a deep understanding that what I do affects the people around me, everyone from loved ones to passers-by. I could sit next to a child, a grandmother, a man undergoing cancer treatment and give them the flu (or any other disease) and hospitalize or kill them without even knowing it. Each of us have a role to play, and it won’t work unless we all contribute.*
-
-    > **Janet Tobias, Director**
-
-    # **What will it take for the world to see, that now more than ever we’re all the frontline of global health?**
+  pullquote-text: "### **\"You have an enemy you can not hide from. Where are you
+    going to go? Who are you going to run from?**” \n\n### Dr. J Soka Moses"
+  content-text: "*I walked away from working on this film with a deep understanding
+    that what I do affects the people around me, everyone from loved ones to passers-by.
+    I could sit next to a child, a grandmother, a man undergoing cancer treatment
+    and give them the flu (or any other disease) and hospitalize or kill them without
+    even knowing it. Each of us have a role to play, and it won’t work unless we all
+    contribute.*\n\n**What will it take for the world to see, that now more than ever
+    we’re all the frontline of global health?**\n\n> **Janet Tobias, Director**\n\n## "
 takeaction-text:
 - |-
-  ****[Sign the Petition Against Pandemics](http://bit.ly/petitionpandemics)****
+  **[Sign the Petition Against Pandemics](http://bit.ly/petitionpandemics)**
 
   Call on G20 leaders to prioritize pandemic preparedness within national budgets and ensure that our collective global health security is a priority on the G20 agenda this July 2017.
 
   ***In Partnership with [Global Citizen](https://www.globalcitizen.org/)***
 - |-
-  **[Follow the Story]**
+  **Follow the Story**
 
   Our community of action is growing beyond UNSEEN ENEMY. Follow us on [Facebook](http://www.facebook.com/takesallofus), [Instagram](www.instagram.com/ittakesallofus) and [Twitter](twitter.com/ittakesallofus) for behind the scenes footage, follow-up stories, new information, campaign events and calls to action that all support the global fight against emerging infectious diseases.
 layout: home
