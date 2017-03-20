@@ -1,6 +1,5 @@
 ---
 title: Home
-published: false
 position: 0
 film:
   title: Unseen Enemy
