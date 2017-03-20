@@ -7,30 +7,13 @@ film:
     \ \nWritten and directed by filmmaker, Janet Tobias\n  \n![Official Selection:
     Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)"
 broadcastevents:
-  description: |-
-    **# 04 April**\
-    France: [ARTE](http://www.arte.tv) / [WDR](http://www.wdr.de)\
-    Germany: ARTE/WDR
-    Israel: YES
-    Poland: TVN
-
-    **05 April**\
-    HONG KONG: RTHK   21:00**
-
-    **06 April**\
-    ESTONIA:   |   **ETV2  20:00**\
-    LATIN AMERICA:   |   **DirectTV  21:00**\
-    VENEZUELA:   |  **DirectTV  22:00**
-
-    **07 April**\
-    United States:    |   **CNN  9PM/ET  8PM/PT**\
-    Canada:   |   **CNN  9PM/ET  8PM/PT**
-
-    **08 April**\
-    Globally    |   **Available on [CNN.com/go](http://www.cnn.com/go)**\
-    AppleTV, Roku, Amazon Fire, and iPad
-
-    *Check back for more broadcasts locations and times.*
+  description: "**# 04 April**\\\nFrance: [ARTE](http://www.arte.tv) / [WDR](http://www.wdr.de)
+    \ \nGermany: ARTE/WDR  \nIsrael: YES  \nPoland: TVN  \n\n**05 April**\\\nHONG
+    KONG: RTHK   21:00**\n\n**06 April**\\\nESTONIA:   |   **ETV2  20:00**\\\nLATIN
+    AMERICA:   |   **DirectTV  21:00**\\\nVENEZUELA:   |  **DirectTV  22:00**\n\n**07
+    April**\\\nUnited States:    |   **CNN  9PM/ET  8PM/PT**\\\nCanada:   |   **CNN
+    \ 9PM/ET  8PM/PT**\n\n**08 April**\\\nGlobally    |   **Available on [CNN.com/go](http://www.cnn.com/go)**\\\nAppleTV,
+    Roku, Amazon Fire, and iPad\n\n*Check back for more broadcasts locations and times.*"
 events:
 - date-and-time: Sunday 19 March at 19:00
   title: CPH:DOX Screening + Director's Talk with Peter Piot
