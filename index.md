@@ -10,7 +10,7 @@ broadcastevents:
   description: "**04 April**  \nFRANCE   |   **ARTE/WDR**\nGERMANY   |   **ARTE/WDR**\nISRAEL
     \  |   **YES**\nPOLAND   |   **TVN**  \n  \n**05 April**  \nHONG KONG   |   **RTHK
     \  21:00**\n\n**06 April**  \nESTONIA   |   **ETV2  20:00**  \nLATIN AMERICA   |
-    \  **DirectTV  21:00**  \nVENEZUELA   |  ** DirectTV  22:00**  \n  \n**07 April**
+    \  **DirectTV  21:00**  \nVENEZUELA   |  **DirectTV  22:00**  \n  \n**07 April**
     \ \nUnited States    |   **CNN  9PM/ET  8PM/PT**  \nCanada   |   **CNN  9PM/ET
     \ 8PM/PT**  \n  \n**08 April**  \nGlobally    |   **Available on CNN.com/go**
     \ \nAppleTV, Roku, Amazon Fire, and iPad  \n  \n*Check back for more broadcasts
