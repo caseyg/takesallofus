@@ -7,15 +7,36 @@ film:
     \ \nWritten and directed by filmmaker, Janet Tobias\n  \n![Official Selection:
     Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)"
 broadcastevents:
-  description: "\n### 4 April  \nFrance: [ARTE](http://www.arte.tv) at 21:55  \nGermany:
-    [WDR](http://www.wdr.de)  \nIsrael: [YES](http://www.yes.co.il)  \nPoland: [TVN](http://www.tvn.pl/)
-    \ \n\n\n### 5 April\nChina: [RTHK](http://www.rthk.hk/) at 21:00  \n\n\n### 6
-    April\nEstonia: [ETV2](http://etv2.err.ee/) at 20:00  \nLatin America: [DirectTV](http://www.directvla.com/)
-    at 21:00  \nVenezuela: [DirectTV](http://www.directv.com.ve/) at 22:00  \n\n\n###
-    7 April\nUnited States: [CNN](http://www.cnn.com) at 9PM/ET - 8PM/PT  \nCanada:
-    [CNN](http://www.cnn.com) at 9 PM/ET - 8 PM/PT  \n\n\n### 8 April\nGlobally: [CNN.com/go](http://www.cnn.com/go)
-    \ \nAvailable on AppleTV, Roku, Amazon Fire, and iPad app\n\n\nCheck back for
-    more broadcasts locations and times."
+  description: |2-
+
+    ### 4 April
+
+    France: [ARTE](http://www.arte.tv) at 21:55\
+    Germany: [WDR](http://www.wdr.de)\
+    Israel: [YES](http://www.yes.co.il)\
+    Poland: [TVN](http://www.tvn.pl/)
+
+    ### 5 April
+
+    China: [RTHK](http://www.rthk.hk/) at 21:00
+
+    ### 6 April
+
+    Estonia: [ETV2](http://etv2.err.ee/) at 20:00\
+    Latin America: [DirectTV](http://www.directvla.com/) at 21:00\
+    Venezuela: [DirectTV](http://www.directv.com.ve/) at 22:00
+
+    ### 7 April
+
+    United States: [CNN](http://www.cnn.com) at 9PM/ET - 8PM/PT\
+    Canada: [CNN](http://www.cnn.com) at 9 PM/ET - 8 PM/PT
+
+    ### 8 April
+
+    Globally: [CNN.com/go](http://www.cnn.com/go)\
+    Available on AppleTV, Roku, Amazon Fire, and iPad app
+
+    Check back for more broadcasts locations and times.
 events:
 - date-and-time: Sunday 19 March at 19:00
   title: CPH:DOX Screening + Director's Talk with Peter Piot
