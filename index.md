@@ -9,22 +9,22 @@ film:
 broadcastevents:
   description: |-
     **04 April**\
-    FRANCE  |  **ARTE/WDR**
-    GERMANY  |  **ARTE/WDR**
-    ISRAEL   |   **YES**
-    POLAND   |   **TVN**
+    FRANCE: **ARTE/WDR**\
+    GERMANY: **ARTE/WDR**
+    ISRAEL: **YES**
+    POLAND: **TVN**
 
     **05 April**\
-    HONG KONG   |   **RTHK   21:00**
+    HONG KONG:   |   **RTHK   21:00**
 
     **06 April**\
-    ESTONIA   |   **ETV2  20:00**\
-    LATIN AMERICA   |   **DirectTV  21:00**\
-    VENEZUELA   |  **DirectTV  22:00**
+    ESTONIA:   |   **ETV2  20:00**\
+    LATIN AMERICA:   |   **DirectTV  21:00**\
+    VENEZUELA:   |  **DirectTV  22:00**
 
     **07 April**\
-    United States    |   **CNN  9PM/ET  8PM/PT**\
-    Canada   |   **CNN  9PM/ET  8PM/PT**
+    United States:    |   **CNN  9PM/ET  8PM/PT**\
+    Canada:   |   **CNN  9PM/ET  8PM/PT**
 
     **08 April**\
     Globally    |   **Available on [CNN.com/go](http://www.cnn.com/go)**\
