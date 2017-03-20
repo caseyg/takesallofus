@@ -9,9 +9,9 @@ film:
 broadcastevents:
   description: |-
     **04 April**\
-    FRANCE | **ARTE/WDR**\
-    GERMANY | **ARTE/WDR**\
-    ISRAEL   |   **YES**\
+    FRANCE  |  **ARTE/WDR**
+    GERMANY  |  **ARTE/WDR**
+    ISRAEL   |   **YES**
     POLAND   |   **TVN**
 
     **05 April**\
