@@ -27,7 +27,7 @@ broadcastevents:
     Canada   |   **CNN  9PM/ET  8PM/PT**
 
     **08 April**\
-    Globally    |   **Available on CNN.com/go**\
+    Globally    |   **Available on [CNN.com/go](http://www.cnn.com/go)**\
     AppleTV, Roku, Amazon Fire, and iPad
 
     *Check back for more broadcasts locations and times.*
