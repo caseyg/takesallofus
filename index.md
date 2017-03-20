@@ -7,24 +7,29 @@ film:
     \ \nWritten and directed by filmmaker, Janet Tobias\n  \n![Official Selection:
     Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)"
 broadcastevents:
-  description: ">  \n**04 April**  \nFRANCE   |   **ARTE/WDR**  \n  GERMANY   |   **ARTE/WDR**
-    \ \n  ISRAEL   |   **YES**  \n  POLAND   |   **TVN**  \n\n**05 April**  \nHONG
-    KONG   |   **RTHK   21:00**  \n\n**06 April**  \nESTONIA   |   **ETV2  20:00**
-    \ \nLATIN AMERICA   |   **DirectTV  21:00**\nVENEZUELA   |  ** DirectTV  22:00**\n\n**07
-    April**\nUnited States    |   **CNN  9PM/ET  8PM/PT**\nCanada   |   **CNN  9PM/ET
-    \ 8PM/PT**\n\nStarting 08 April    |   Available on CNN.com/go\n*AppleTV, Roku,
-    Amazon Fire, and iPad*"
+  description: "**04 April**  \nFRANCE   |   **ARTE/WDR**\nGERMANY   |   **ARTE/WDR**\nISRAEL
+    \  |   **YES**\nPOLAND   |   **TVN**\n\n**05 April**\nHONG KONG   |   **RTHK   21:00**\n\n**06
+    April**\nESTONIA   |   **ETV2  20:00**\nLATIN AMERICA   |   **DirectTV  21:00**\nVENEZUELA
+    \  |  ** DirectTV  22:00**\n\n**07 April**\nUnited States    |   **CNN  9PM/ET
+    \ 8PM/PT**\nCanada   |   **CNN  9PM/ET  8PM/PT**\n\n**08 April**\nGlobally    |
+    \  **Available on CNN.com/go**\n*AppleTV, Roku, Amazon Fire, and iPad*\n\n*Check
+    back for more broadcasts locations and times.*"
 events:
-- date-and-time: Sun. 19 March  19:00
-  title: CPH:DOX Screening + Director's Talk with featured guests
+- date-and-time: Sunday 19 March at 19:00
+  title: CPH:DOX Screening + Director's Talk with Peter Piot
   venue: Cinemateket
   location: Copenhagen, Denmark
   url: http://ebillet.dk/simple/buy.listtt.aspx?act=Buy&refno=40541&orgno=156&sysno=3
-- date-and-time: Wed. 22 March 19:00
+- date-and-time: Wednesday 22 March at 19:00
   title: 'CPH:DOX Screening '
   venue: Nordisk Film Palads
   location: Copenhagen, Denmar
   url: http://www.nfbio.dk/ticketflow/2017/16708
+- date-and-time: Thursday 23 March at 19:00
+  title: ARTE/WDR Presents Unseen Enemy
+  venue: Museum Ludwig
+  location: Köln, Germany
+  url: Tickets on Sale Soon
 mediapartners:
 - title: CNN FILMS
   url: 
