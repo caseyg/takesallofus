@@ -8,14 +8,14 @@ film:
     Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)"
 broadcastevents:
   description: |-
-    **04 April**\
-    FRANCE: **[ARTE](http://www.arte.fr)/[WDR](http://www.wdr.de)**\
-    GERMANY: **ARTE/WDR**
-    ISRAEL: **YES**
-    POLAND: **TVN**
+    **# 04 April**\
+    France: [ARTE](http://www.arte.tv) / [WDR](http://www.wdr.de)\
+    Germany: ARTE/WDR
+    Israel: YES
+    Poland: TVN
 
     **05 April**\
-    HONG KONG:   |   **RTHK   21:00**
+    HONG KONG: RTHK   21:00**
 
     **06 April**\
     ESTONIA:   |   **ETV2  20:00**\
