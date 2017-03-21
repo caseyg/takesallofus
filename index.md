@@ -17,21 +17,22 @@ broadcastevents:
     \ \n(available on AppleTV, Roku, Amazon Fire, and iPad app)\n\nCheck back for
     more broadcasts locations and times."
 events:
-- date-and-time: Sunday 19 March at 19:00
-  title: CPH:DOX Screening + Director's Talk with Peter Piot
-  venue: Cinemateket
-  location: Copenhagen, Denmark
-  url: http://ebillet.dk/simple/buy.listtt.aspx?act=Buy&refno=40541&orgno=156&sysno=3
 - date-and-time: Wednesday 22 March at 19:00
   title: 'CPH:DOX Screening '
   venue: Nordisk Film Palads
-  location: Copenhagen, Denmar
+  location: Copenhagen, Denmark
   url: http://www.nfbio.dk/ticketflow/2017/16708
-- date-and-time: Thursday 23 March at 19:00
+- date-and-time: Thursday 23 March at 18:00
   title: ARTE/WDR Presents Unseen Enemy
   venue: Filmforum / Kino in Museum Ludwig
   location: Köln, Germany
   url: free entrance
+- date-and-time: Tuesday 28 March at 19:00
+  title: ARTE/WDR Presents Unseen Enemy
+  venue: Babylon
+  location: Berlin, Germany
+  url: http://www.babylonberlin.de/
+  RSVP: invite only
 mediapartners:
 - title: CNN FILMS
   url: 
