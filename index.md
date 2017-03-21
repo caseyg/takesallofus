@@ -12,8 +12,8 @@ broadcastevents:
     5 April\nChina: [RTHK](http://www.rthk.hk/) at 21:00\n\n### 6 April\nEstonia:
     [ETV2](http://etv2.err.ee/) at 20:00  \nLatin America: [DirectTV](http://www.directvla.com/)
     at 21:00  \nVenezuela: [DirectTV](http://www.directv.com.ve/) at 22:00\n\n###
-    7 April\nUnited States: [CNN](http://www.cnn.com) at 9 PM/ET - 8 PM/PT  \nCanada:
-    [CNN](http://www.cnn.com) at 9 PM/ET - 8 PM/PT\n\n### 8 April\nGlobally: [CNN.com/go](http://www.cnn.com/go)
+    7 April\nUnited States: [CNN](http://www.cnn.com) at 9 PM/ET - 9 PM/PT  \nCanada:
+    [CNN](http://www.cnn.com) at 9 PM/ET - 9 PM/PT\n\n### 8 April\nGlobally: [CNN.com/go](http://www.cnn.com/go)
     \ \n(available on AppleTV, Roku, Amazon Fire, and iPad app)\n\nCheck back for
     more broadcasts locations and times."
 events:
