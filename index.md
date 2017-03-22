@@ -23,18 +23,18 @@ events:
   location: Copenhagen, Denmark
   url: http://www.nfbio.dk/ticketflow/2017/16708
 - date-and-time: Thursday 23 March at 18:00
-  title: ARTE/WDR Presents Unseen Enemy
+  title: ARTE/WDR Presents Unseen Enemy (in German)
   venue: Filmforum / Kino in Museum Ludwig
   location: Köln, Germany
   url: free entrance
 - date-and-time: Tuesday 28 March at 19:00
-  title: ARTE/WDR Presents Unseen Enemy
+  title: Unseen Enemy (Viren, die unsichtbaren Feinde)
   venue: Babylon
   location: Berlin, Germany
   url: http://www.babylonberlin.de/
-  RSVP: invite only
+  RSVP: 
 mediapartners:
-- title: CNN FILMS
+- title: CNN Films
   url: 
   logo: "/uploads/CNNFILMS-972431.png"
 mediapartners-additional:
