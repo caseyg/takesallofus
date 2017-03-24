@@ -7,8 +7,8 @@ film:
     actor**  \n\n**Written & Directed by Janet Tobias**  \n\n\n![Official Selection:
     Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)"
 broadcastevents:
-  description: "### **April 4**\n\n[ARTE ](http://www.arte.tv)\nin France  \n\n\\\n[ARTE](http://www.wdr.de)\nin
-    Germany  \n\n\\\n[YES](http://www.yes.co.il)\nin Israel  \n\n\\\n[TVN  ](http://www.tvn.pl/)\nin
+  description: "### **April 4**\n\n[ARTE ](http://www.arte.tv)\nin France  \n\n[ARTE](http://www.wdr.de)\nin
+    Germany  \n\n[YES](http://www.yes.co.il)\nin Israel  \n\n[TVN  ](http://www.tvn.pl/)\nin
     Poland  \n\n### 5 April\n\nHong Kong: [RTHK](http://www.rthk.hk/) at 21:00\n\n###
     6 April\n\nEstonia: [ETV2](http://etv2.err.ee/) at 20:00\\\nLatin America: [DirectTV](http://www.directvla.com/)
     at 21:00\\\nVenezuela: [DirectTV](http://www.directv.com.ve/) at 22:00\n\n###
