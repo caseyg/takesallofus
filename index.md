@@ -9,13 +9,13 @@ film:
 broadcastevents:
   description: "### April 4\n\n[ARTE](http://www.arte.tv) in **France**  \n[ARTE](http://www.wdr.de)
     in **Germany**  \n[YES](http://www.yes.co.il) in **Israel**   \n[TVN](http://www.tvn.pl/)
-    in **Poland**  \n\n### 5 April\n\n[RTHK](http://www.rthk.hk/) in **Hong Kong**\n\n###
-    6 April\n\n[ETV2](http://etv2.err.ee/) in **Estonia** at 20:00\\\n[DirectTV](http://www.directvla.com/)
-    in **Latin America** at 21:00\\\n[DirectTV](http://www.directv.com.ve/) in **Venezuela**
-    at 22:00\n\n### 7 April  World Health Day Broadcast\n\n[CNN](http://www.cnn.com)
-    in the **United States** and **Canada** at 9 PM\n\n### 8 April\n\nAvailable for
-    a limited time on [CNN.com/go  ](http://www.cnn.com/go)\n\n* * \n\n*Check back
-    for more broadcasts times.*"
+    in **Poland**  \n\n### April 5\n\n[RTHK](http://www.rthk.hk/) in **Hong Kong**
+    \ \n  \n### April 6\n\n[ETV2](http://etv2.err.ee/) in **Estonia** at 20:00  \n[DirectTV](http://www.directvla.com/)
+    in **Latin America** at 21:00  \n[DirectTV](http://www.directv.com.ve/) in **Venezuela**
+    at 22:00\n\n### April 7  \n**World Health Day Broadcast**  \n \n[CNN](http://www.cnn.com)
+    in the **United States** and **Canada** at 9:00 PM  \n\n### 8 April\n\nAvailable
+    for a limited time on [CNN.com/go  ](http://www.cnn.com/go)  \n\n*Check back for
+    more broadcasts times.*"
 events:
 - date-and-time: Wednesday 22 March at 19:00
   title: 'CPH:DOX Screening '
