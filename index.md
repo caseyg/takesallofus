@@ -150,4 +150,4 @@ Unseen Enemy is an essential exploration into the increasing threat of emerging 
   
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=zsB1sYSHEAM
 " target="_blank"><img src="http://img.youtube.com/vi/zsB1sYSHEAM/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="720" height="540" border="10" /></a>
