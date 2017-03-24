@@ -142,7 +142,7 @@ takeaction-text:
 layout: home
 ---
 
-## In this 21st century, we are all connected.
+### In this 21st century, we are all connected.  
 
 Population growth, mass urbanization, deforestation, climate change and increased travel have dramatically increased the risk that familiar diseases will spread and mutate, and new ones will emerge. As people enter new spheres of biodiversity, they come into closer contact with other species, increasing the risk of viruses jumping from animals to humans, and then spreading more widely.
 
