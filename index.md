@@ -8,12 +8,14 @@ film:
     Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)"
 broadcastevents:
   description: |-
+    ### **  **
+
     ### **April 4**
 
-    [ARTE](http://www.arte.tv) in **France**\
-    [ARTE](http://www.wdr.de) in **Germany**\
-    [YES](http://www.yes.co.il) in **Israel**\
-    [TVN](http://www.tvn.pl/) in **Poland**
+    [ARTE](http://www.arte.tv) in **France  **\
+    [ARTE](http://www.wdr.de) in **Germany  **\
+    [YES](http://www.yes.co.il) in **Israel  **\
+    [TVN](http://www.tvn.pl/) in **Poland  **
 
     ### 5 April
 
