@@ -3,13 +3,9 @@ title: Home
 position: 0
 film:
   title: Unseen Enemy
-  description: |-
-    **Narrated by Jeffrey Wright, Emmy® and Golden Globe award-winning actor  **
-
-    **Written & Directed by Janet Tobias  **
-
-
-    ![Official Selection: Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)
+  description: "**Narrated by Jeffrey Wright, Emmy® and Golden Globe award-winning
+    actor**  \n\n**Written & Directed by Janet Tobias**  \n\n\n![Official Selection:
+    Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)"
 broadcastevents:
   description: "  \n  \n### 4 April  \nFrance: [ARTE](http://www.arte.tv) at 21:55
     \ \nGermany: [ARTE](http://www.wdr.de)  \nIsrael: [YES](http://www.yes.co.il)
