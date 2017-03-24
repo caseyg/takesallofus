@@ -7,37 +7,15 @@ film:
     actor**  \n\n**Written & Directed by Janet Tobias**  \n\n\n![Official Selection:
     Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)"
 broadcastevents:
-  description: |-
-    ### **  **
-
-    ### **April 4**
-
-    [ARTE](http://www.arte.tv) in **France  **\
-    [ARTE](http://www.wdr.de) in **Germany  **\
-    [YES](http://www.yes.co.il) in **Israel  **\
-    [TVN](http://www.tvn.pl/) in **Poland  **
-
-    ### 5 April
-
-    [RTHK](http://www.rthk.hk/) in **Hong Kong**
-
-    ### 6 April
-
-    [ETV2](http://etv2.err.ee/) in **Estonia** at 20:00\
-    [DirectTV](http://www.directvla.com/) in **Latin America** at 21:00\
-    [DirectTV](http://www.directv.com.ve/) in **Venezuela** at 22:00
-
-    ### 7 April  World Health Day Broadcast
-
-    [CNN](http://www.cnn.com) in the **United States** and **Canada** at 9 PM
-
-    ### 8 April
-
-    Available for a limited time on [CNN.com/go  ](http://www.cnn.com/go)
-
-    *  *
-
-    *Check back for more broadcasts times.*
+  description: "\\*\\*April 4  \\*\\*\n\n[ARTE](http://www.arte.tv) in **France  **\n\n[ARTE](http://www.wdr.de)
+    in **Germany  **\n\n[YES](http://www.yes.co.il) in **Israel**   \n\n[TVN](http://www.tvn.pl/)
+    in **Poland  **\n\n### 5 April\n\n[RTHK](http://www.rthk.hk/) in **Hong Kong**\n\n###
+    6 April\n\n[ETV2](http://etv2.err.ee/) in **Estonia** at 20:00\\\n[DirectTV](http://www.directvla.com/)
+    in **Latin America** at 21:00\\\n[DirectTV](http://www.directv.com.ve/) in **Venezuela**
+    at 22:00\n\n### 7 April  World Health Day Broadcast\n\n[CNN](http://www.cnn.com)
+    in the **United States** and **Canada** at 9 PM\n\n### 8 April\n\nAvailable for
+    a limited time on [CNN.com/go  ](http://www.cnn.com/go)\n\n* * \n\n*Check back
+    for more broadcasts times.*"
 events:
 - date-and-time: Wednesday 22 March at 19:00
   title: 'CPH:DOX Screening '
