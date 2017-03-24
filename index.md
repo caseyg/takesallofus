@@ -144,9 +144,9 @@ layout: home
 
 In the 21st century, we are all connected. Population growth, mass urbanization, deforestation, climate change and increased travel have dramatically increased the risk that familiar diseases will spread and mutate, and new ones will emerge. As people enter new spheres of biodiversity, they come into closer contact with other species, increasing the risk of viruses jumping from animals to humans, and then spreading more widely.
 
-Unseen Enemy is an essential exploration into the increasing threat of emerging infectious disease outbreaks and their impacts on society. Meet healthcare workers, disease detectives and families who have experienced the horror and devastation of Ebola, Zika and Influenza epidemics and emerged deeply changed.
+Unseen Enemy is an essential exploration into the increasing threat of emerging infectious disease outbreaks and their impacts on society. Meet healthcare workers, disease detectives and families who have experienced the horror and devastation of Ebola, Zika and Influenza epidemics and emerged deeply changed.  
 
-
+  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=zsB1sYSHEAM
 " target="_blank"><img src="http://img.youtube.com/vi/zsB1sYSHEAM/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
