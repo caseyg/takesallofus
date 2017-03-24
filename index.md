@@ -7,7 +7,7 @@ film:
     \ \nWritten and directed by filmmaker, Janet Tobias\n  \n![Official Selection:
     Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)"
 broadcastevents:
-  description: "\n### 4 April\nFrance: [ARTE](http://www.arte.tv) at 21:55  \nGermany:
+  description: "##\n### 4 April\nFrance: [ARTE](http://www.arte.tv) at 21:55  \nGermany:
     [ARTE](http://www.wdr.de)  \nIsrael: [YES](http://www.yes.co.il)  \nPoland: [TVN](http://www.tvn.pl/)\n\n###
     5 April\nHong Kong: [RTHK](http://www.rthk.hk/) at 21:00\n\n### 6 April\nEstonia:
     [ETV2](http://etv2.err.ee/) at 20:00  \nLatin America: [DirectTV](http://www.directvla.com/)
@@ -23,17 +23,26 @@ events:
   venue: Nordisk Film Palads
   location: Copenhagen, Denmark
   url: http://www.nfbio.dk/ticketflow/2017/16708
-- date-and-time: Thursday 23 March at 18:00
-  title: ARTE/WDR Presents Unseen Enemy (in German)
+- date-and-time: Thursday, 23 March at 18:00
+  title: ARTE / WDR Presents Unseen Enemy (in German)
   venue: Filmforum / Kino in Museum Ludwig
   location: Köln, Germany
   url: free entrance
-- date-and-time: Tuesday 28 March at 19:00
-  title: Unseen Enemy (Viren, die unsichtbaren Feinde)
+- date-and-time: Tuesday, 28 March at 19:00
+  title: Berlin Premiere
   venue: Babylon
   location: Berlin, Germany
   url: http://www.babylonberlin.de/
-  RSVP: 
+- date-and-time: Sunday,  2 April   3:00 PM - 7:00 PM
+  title: National Academy of Medicine DC Premiere of Unseen Enemy
+  venue: NAS Building, 2101 Constitution Avenue, NW
+  location: Washington DC
+  url: https://nam.edu/event/documentary-screening-of-unseen-enemy-dc-premiere/
+- date-and-time: Friday, 31 March   2:30 PM - 4:00 PM
+  title: 'Boston Unseen Enemy Premiere '
+  venue: 'Harvard Kennedy School, 79 JFK Street '
+  location: Cambridge, MA
+  url: https://goo.gl/tWsZ1Y
 mediapartners:
 - title: CNN Films
   url: 
