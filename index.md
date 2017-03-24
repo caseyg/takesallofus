@@ -12,10 +12,10 @@ broadcastevents:
     in **Poland**  \n\n## April 5\n\n[RTHK](http://www.rthk.hk/) in **Hong Kong**
     \ \n\n  \n## April 6\n\n[ETV2](http://etv2.err.ee/)  20:00  in **Estonia**  \n[DirectTV](http://www.directvla.com/)
     \ 21:00  in **Latin America**  \n[DirectTV](http://www.directv.com.ve/)  22:00
-    in **Venezuela**  \n  \n## April 7  \n*World Health Day Broadcast*  \n[CNN](http://www.cnn.com)
+    in **Venezuela**  \n  \n**April 7**  \n*World Health Day Broadcast*  \n[CNN](http://www.cnn.com)
     \ 9:00 PM  in the **United States**  \n[CNN](http://www.cnn.com)  9:00 PM  in
-    **Canada**  \n\n## **8 April**  \n\nAvailable for a limited time on [CNN.com/go
-    \ ](http://www.cnn.com/go)  \n\n*Check back for more broadcasts times.*"
+    **Canada**  \n\n**8 April**  \n\nAvailable for a limited time on [CNN.com/go  ](http://www.cnn.com/go)
+    \ \n\n*Check back for more broadcasts times.*"
 events:
 - date-and-time: Wednesday 22 March at 19:00
   title: 'CPH:DOX Screening '
@@ -140,7 +140,7 @@ takeaction-text:
 layout: home
 ---
 
-**In the 21st century, we are all connected...**  
+**In the 21st century, we are all connected...**
 
 Population growth, mass urbanization, deforestation, climate change and increased travel have dramatically increased the risk that familiar diseases will spread and mutate, and new ones will emerge. As people enter new spheres of biodiversity, they come into closer contact with other species, allowing viruses to jump from from animals to humans and then spread more widely.
 
