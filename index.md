@@ -15,7 +15,7 @@ broadcastevents:
     in **Venezuela**  \n  \n**April 7**  \n*World Health Day Broadcast*  \n[CNN](http://www.cnn.com)
     \ 9:00 PM  in the **United States**  \n[CNN](http://www.cnn.com)  9:00 PM  in
     **Canada**  \n\n**8 April**  \nAvailable for a limited time on [CNN.com/go  ](http://www.cnn.com/go)
-    \ \n\n*Check back for more broadcasts times.*"
+    \ \n\n>*Check back for more broadcasts times.*"
 events:
 - date-and-time: Wednesday 22 March at 19:00
   title: 'CPH:DOX Screening '
