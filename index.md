@@ -3,9 +3,12 @@ title: Home
 position: 0
 film:
   title: Unseen Enemy
-  description: "Narrated by Emmy® and Golden Globe award-winning actor, Jeffrey Wright
-    \ \nWritten and directed by filmmaker, Janet Tobias\n  \n![Official Selection:
-    Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)"
+  description: |-
+    ## Narrated by Jeffrey Wright, Emmy® and Golden Globe award-winning actor
+
+    ## Written & Directed by Janet Tobias
+
+    ![Official Selection: Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)
 broadcastevents:
   description: "  \n  \n### 4 April  \nFrance: [ARTE](http://www.arte.tv) at 21:55
     \ \nGermany: [ARTE](http://www.wdr.de)  \nIsrael: [YES](http://www.yes.co.il)
@@ -142,8 +145,10 @@ takeaction-text:
 layout: home
 ---
 
-In the 21st century, we are all connected. Population growth, mass urbanization, deforestation, climate change and increased travel have dramatically increased the risk that familiar diseases will spread and mutate, and new ones will emerge. As people enter new spheres of biodiversity, they come into closer contact with other species, increasing the risk of viruses jumping from animals to humans, and then spreading more widely.
+> 
 
-Unseen Enemy is an essential exploration into the increasing threat of emerging infectious disease outbreaks and their impacts on society. Meet healthcare workers, disease detectives and families who have experienced the horror and devastation of Ebola, Zika and Influenza epidemics and emerged deeply changed. Watch the official trailer below and scroll further for events, screenings and our impact campaign **It Takes All of Us**.  
->
->
+## In the 21st century, we are all connected. Population growth, mass urbanization, deforestation, climate change and increased travel have dramatically increased the risk that familiar diseases will spread and mutate, and new ones will emerge. As people enter new spheres of biodiversity, they come into closer contact with other species, increasing the risk of viruses jumping from animals to humans, and then spreading more widely.
+
+## Unseen Enemy is an essential exploration into the increasing threat of emerging infectious disease outbreaks and their impacts on society. Meet healthcare workers, disease detectives and families who have experienced the horror and devastation of Ebola, Zika and Influenza epidemics and emerged deeply changed. Watch the official trailer below and scroll further for events, screenings and our impact campaign **It Takes All of Us**.
+
+> 
