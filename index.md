@@ -119,8 +119,7 @@ OurCommunities:
   url: 
   logo: "/uploads/nomoreepidemics.png"
 director:
-  pullquote-text: "### \"You have an enemy you can not hide from. Where are you going
-    to go? Who are you going to run from?” \n\n### Dr. J Soka Moses  \n\n  "
+  pullquote-text: 
   content-text: "  \n\n*I walked away from working on this film with a deep understanding
     that what I do affects the people around me, everyone from loved ones to passers-by.
     I could sit next to a child, a grandmother, a man undergoing cancer treatment
