@@ -6,6 +6,7 @@ film:
   description: "**Narrated by Jeffrey Wright, Emmy® and Golden Globe award-winning
     actor**  \n\n**Written & Directed by Janet Tobias**  \n\n\n![Official Selection:
     Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)"
+  trailer-youtube-id: zsB1sYSHEAM
 broadcastevents:
   description: "  \n**April 4**  \n[ARTE](http://www.arte.tv) in France  \n[ARTE](http://www.wdr.de)
     in Germany  \n[YES](http://www.yes.co.il) in Israel   \n[TVN](http://www.tvn.pl/)

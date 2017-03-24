@@ -9,11 +9,8 @@ collections:
     title: Uploads
     output: true
 email: hello@takesallofus.com
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-
-'
+description: Building global resilience to the emerging threat of infectious disease.
+  Join us.
 baseurl: 
 url: 
 twitter: ItTakesAllofUs
