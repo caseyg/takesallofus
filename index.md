@@ -32,16 +32,16 @@ events:
   venue: Babylon
   location: Berlin, Germany
   url: http://www.babylonberlin.de/
-- date-and-time: Sunday,  2 April   3:00 PM - 7:00 PM
-  title: National Academy of Medicine DC Premiere of Unseen Enemy
-  venue: NAS Building, 2101 Constitution Avenue, NW
-  location: Washington DC
-  url: https://nam.edu/event/documentary-screening-of-unseen-enemy-dc-premiere/
 - date-and-time: Friday, 31 March   2:30 PM - 4:00 PM
   title: 'Boston Unseen Enemy Premiere '
   venue: 'Harvard Kennedy School, 79 JFK Street '
   location: Cambridge, MA
   url: https://goo.gl/tWsZ1Y
+- date-and-time: Sunday,  2 April   3:00 PM - 7:00 PM
+  title: National Academy of Medicine DC Premiere of Unseen Enemy
+  venue: NAS Building, 2101 Constitution Avenue, NW
+  location: Washington DC
+  url: https://nam.edu/event/documentary-screening-of-unseen-enemy-dc-premiere/
 mediapartners:
 - title: CNN Films
   url: 
@@ -119,13 +119,13 @@ OurCommunities:
   logo: "/uploads/nomoreepidemics.png"
 director:
   pullquote-text: 
-  content-text: "### **What will it take for the world to see that now more than ever
-    we’re all the frontline of global health?**  \n  \n\n*I walked away from working
-    on this film with a deep understanding that what I do affects the people around
-    me, everyone from loved ones to passers-by. I could sit next to a child, a grandmother,
-    a man undergoing cancer treatment and give them the flu (or any other disease)
-    and hospitalize or kill them without even knowing it. Each of us have a role to
-    play, and it won’t work unless we all contribute.*\n\nJanet Tobias, Director"
+  content-text: "  \n  \n\n*I walked away from working on this film with a deep understanding
+    that what I do affects the people around me, everyone from loved ones to passers-by.
+    I could sit next to a child, a grandmother, a man undergoing cancer treatment
+    and give them the flu (or any other disease) and hospitalize or kill them without
+    even knowing it. Each of us have a role to play, and it won’t work unless we all
+    contribute.*  \n  \n\n**What will it take for the world to see that now more than
+    ever we’re all the frontline of global health?**  \n\n\nJanet Tobias, Director"
 takeaction-text:
 - |-
   **[Sign the Petition Against Pandemics](http://bit.ly/petitionpandemics)**
