@@ -119,12 +119,13 @@ OurCommunities:
   logo: "/uploads/nomoreepidemics.png"
 director:
   pullquote-text: 
-  content-text: |-
-    ### **What will it take for the world to see that now more than ever we’re all the frontline of global health?**
-
-    *I walked away from working on this film with a deep understanding that what I do affects the people around me, everyone from loved ones to passers-by. I could sit next to a child, a grandmother, a man undergoing cancer treatment and give them the flu (or any other disease) and hospitalize or kill them without even knowing it. Each of us have a role to play, and it won’t work unless we all contribute.*
-
-    Janet Tobias, Director
+  content-text: "### **What will it take for the world to see that now more than ever
+    we’re all the frontline of global health?**  \n  \n\n*I walked away from working
+    on this film with a deep understanding that what I do affects the people around
+    me, everyone from loved ones to passers-by. I could sit next to a child, a grandmother,
+    a man undergoing cancer treatment and give them the flu (or any other disease)
+    and hospitalize or kill them without even knowing it. Each of us have a role to
+    play, and it won’t work unless we all contribute.*\n\nJanet Tobias, Director"
 takeaction-text:
 - |-
   **[Sign the Petition Against Pandemics](http://bit.ly/petitionpandemics)**
