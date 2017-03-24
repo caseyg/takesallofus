@@ -12,7 +12,7 @@ broadcastevents:
     in **Poland**  \n\n### April 5\n\n[RTHK](http://www.rthk.hk/) in **Hong Kong**
     \ \n  \n### April 6\n\n[ETV2](http://etv2.err.ee/) in **Estonia** at 20:00  \n[DirectTV](http://www.directvla.com/)
     in **Latin America** at 21:00  \n[DirectTV](http://www.directv.com.ve/) in **Venezuela**
-    at 22:00\n\n### April 7  \n**World Health Day Broadcast**  \n \n[CNN](http://www.cnn.com)
+    at 22:00\n\n### April 7  \n*World Health Day Broadcast*  \n[CNN](http://www.cnn.com)
     in the **United States** and **Canada** at 9:00 PM  \n\n### 8 April\n\nAvailable
     for a limited time on [CNN.com/go  ](http://www.cnn.com/go)  \n\n*Check back for
     more broadcasts times.*"
