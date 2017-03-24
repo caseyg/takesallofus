@@ -7,9 +7,9 @@ film:
     actor**  \n\n**Written & Directed by Janet Tobias**  \n\n\n![Official Selection:
     Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)"
 broadcastevents:
-  description: "\\*\\*April 4  \\*\\*\n\n[ARTE](http://www.arte.tv) in **France  **\n\n[ARTE](http://www.wdr.de)
-    in **Germany  **\n\n[YES](http://www.yes.co.il) in **Israel**   \n\n[TVN](http://www.tvn.pl/)
-    in **Poland  **\n\n### 5 April\n\n[RTHK](http://www.rthk.hk/) in **Hong Kong**\n\n###
+  description: "### April 4\n\n[ARTE](http://www.arte.tv) in **France**\n[ARTE](http://www.wdr.de)
+    in **Germany**\n[YES](http://www.yes.co.il) in **Israel**   \n[TVN](http://www.tvn.pl/)
+    in **Poland**  \n\n### 5 April\n\n[RTHK](http://www.rthk.hk/) in **Hong Kong**\n\n###
     6 April\n\n[ETV2](http://etv2.err.ee/) in **Estonia** at 20:00\\\n[DirectTV](http://www.directvla.com/)
     in **Latin America** at 21:00\\\n[DirectTV](http://www.directv.com.ve/) in **Venezuela**
     at 22:00\n\n### 7 April  World Health Day Broadcast\n\n[CNN](http://www.cnn.com)
