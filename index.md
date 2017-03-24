@@ -7,16 +7,35 @@ film:
     actor**  \n\n**Written & Directed by Janet Tobias**  \n\n\n![Official Selection:
     Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)"
 broadcastevents:
-  description: "### **April 4**\n\n[ARTE ](http://www.arte.tv)\nin France  \n\n[ARTE](http://www.wdr.de)\nin
-    Germany  \n\n[YES](http://www.yes.co.il)\nin Israel  \n\n[TVN  ](http://www.tvn.pl/)\nin
-    Poland  \n\n### 5 April\n\nHong Kong: [RTHK](http://www.rthk.hk/) at 21:00\n\n###
-    6 April\n\nEstonia: [ETV2](http://etv2.err.ee/) at 20:00\\\nLatin America: [DirectTV](http://www.directvla.com/)
-    at 21:00\\\nVenezuela: [DirectTV](http://www.directv.com.ve/) at 22:00\n\n###
-    7 April\n\nUnited States: [CNN](http://www.cnn.com) at 9 PM/ET - 9 PM/PT\\\nCanada:
-    [CNN](http://www.cnn.com) at 9 PM/ET - 9 PM/PT\n\n### 8 April\n\nUS & Canada Cable
-    Subscribers on [CNN.com/go](http://www.cnn.com/go)\\\n\\(App available on AppleTV,
-    Roku, Amazon Fire and iPad app)\n\nCheck back for more broadcasts locations and
-    times."
+  description: |-
+    ### **April 4**
+
+    [ARTE](http://www.arte.tv) in France\
+    [ARTE](http://www.wdr.de) in Germany\
+    [YES](http://www.yes.co.il) in Israel\
+    [TVN](http://www.tvn.pl/) in Poland
+
+    ### 5 April
+
+    Hong Kong: [RTHK](http://www.rthk.hk/) at 21:00
+
+    ### 6 April
+
+    Estonia: [ETV2](http://etv2.err.ee/) at 20:00\
+    Latin America: [DirectTV](http://www.directvla.com/) at 21:00\
+    Venezuela: [DirectTV](http://www.directv.com.ve/) at 22:00
+
+    ### 7 April
+
+    United States: [CNN](http://www.cnn.com) at 9 PM/ET - 9 PM/PT\
+    Canada: [CNN](http://www.cnn.com) at 9 PM/ET - 9 PM/PT
+
+    ### 8 April
+
+    US & Canada Cable Subscribers on [CNN.com/go](http://www.cnn.com/go)\
+    \(App available on AppleTV, Roku, Amazon Fire and iPad app)
+
+    Check back for more broadcasts locations and times.
 events:
 - date-and-time: Wednesday 22 March at 19:00
   title: 'CPH:DOX Screening '
