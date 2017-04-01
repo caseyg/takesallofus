@@ -43,101 +43,80 @@ events:
   venue: NAS Building, 2101 Constitution Avenue, NW
   location: Washington DC
   url: https://nam.edu/event/documentary-screening-of-unseen-enemy-dc-premiere/
-mediapartners:
+productionpartners:
 - title: CNN Films
-  url: 
+  url:
   logo: "/uploads/CNNFILMS-972431.png"
-mediapartners-additional:
 - title: VULCAN PRODUCTIONS
-  url: 
+  url:
   logo: "/uploads/vulcanproductions.png"
 - title: SIERRA/TANGO PRODUCTIONS
-  url: 
+  url:
   logo: "/uploads/sierratangoproductions.png"
 - title: ARTE
-  url: 
+  url:
   logo: "/uploads/arte.png"
 - title: WDR
-  url: 
+  url:
   logo: "/uploads/wdr.png"
 presskit: https://www.dropbox.com/s/1cyaf5gj978ojna/UnseenEnemy_EPK-theatrical_VF.pdf?dl=0
 presentingpartners:
 - title: Johnson & Johnson
-  url: 
+  url:
   logo: "/uploads/15-Johnson-Johnson-Logo%20copy.png"
 - title: Wellcome Trust
-  url: 
+  url:
   logo: "/uploads/wellcometrust.png"
 - title: The Bill & Melinda Gates Foundation
-  url: 
+  url:
   logo: "/uploads/gatesfoundation.png"
 missionallies:
 - title: Global Citizen
-  url: 
+  url:
   logo: "/uploads/globalcitizen_1.png"
 - title: Global Moms Challenge
-  url: 
+  url:
   logo: "/uploads/globalmomschallenge.png"
 - title: Global Reporting Centre
-  url: 
+  url:
   logo: "/uploads/globalreportingcentre.png"
 - title: Institut Pasteur
-  url: 
+  url:
   logo: "/uploads/institutpasteur.png"
 - title: London School of Hygiene and Tropical Medicine
-  url: 
+  url:
   logo: "/uploads/londonschoolofhygiene.png"
 - title: National Academy of Medicine
-  url: 
+  url:
   logo: "/uploads/nationalacacdenmyofmedicine.png"
 - title: NYU College of Global Public Health
-  url: 
+  url:
   logo: "/uploads/nyu.png"
 - title: Skoll Global Health Threats Fund
-  url: 
+  url:
   logo: "/uploads/skollglobalthreatsfund.png"
 - title: University of British Columbia
-  url: 
+  url:
   logo: "/uploads/ubc.png"
 - title: Boston Public Health
-  url: 
+  url:
   logo: "/uploads/bostonpublichealth.png"
 OurCommunities:
 - title: Alana's Foundation
-  url: 
+  url:
   logo: "/uploads/alanasfoundation.png"
 - title: Ashley McCormick Foundation
-  url: 
+  url:
   logo: "/uploads/theashleymccormickfoundation.png"
 - title: Families Fighting Flu
-  url: 
+  url:
   logo: "/uploads/familiesfightingfluinc.png"
 - title: Fight the Flu Foundation
-  url: 
+  url:
   logo: "/uploads/fighttheflufoundation.png"
 - title: No More Epidemics
-  url: 
+  url:
   logo: "/uploads/nomoreepidemics.png"
-director:
-  pullquote-text: 
-  content-text: "  \n  \n\n*I walked away from working on this film with a deep understanding
-    that what I do affects the people around me, everyone from loved ones to passers-by.
-    I could sit next to a child, a grandmother, a man undergoing cancer treatment
-    and give them the flu (or any other disease) and hospitalize or kill them without
-    even knowing it. Each of us have a role to play, and it won’t work unless we all
-    contribute.*  \n  \n\n**What will it take for the world to see that now more than
-    ever we’re all the frontline of global health?**  \n\n\nJanet Tobias, Director"
-takeaction-text:
-- |-
-  **[Sign the Petition Against Pandemics](http://bit.ly/petitionpandemics)**
-
-  Call on G20 leaders to prioritize pandemic preparedness within national budgets and ensure that our collective global health security is a priority on the G20 agenda this July 2017.
-
-  ***In Partnership with [Global Citizen](https://www.globalcitizen.org/)***
-- |-
-  **Follow the Story**
-
-  Our community of action is growing beyond UNSEEN ENEMY. Follow us on [Facebook](http://www.facebook.com/takesallofus), [Instagram](www.instagram.com/ittakesallofus) and [Twitter](twitter.com/ittakesallofus) for behind the scenes footage, follow-up stories, new information, campaign events and calls to action that all support the global fight against emerging infectious diseases.
 layout: home
 ---
 
