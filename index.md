@@ -59,7 +59,23 @@ productionpartners:
 - title: WDR
   url: 
   logo: "/uploads/wdr.png"
-presskit: https://www.dropbox.com/s/1cyaf5gj978ojna/UnseenEnemy_EPK-theatrical_VF.pdf?dl=0
+presskit:
+  images:
+  - thumb-image: 
+    full-image: 
+  - thumb-image: 
+    full-image: 
+  - thumb-image: 
+    full-image: 
+  - thumb-image: 
+    full-image: 
+  - thumb-image: 
+    full-image: 
+  - thumb-image: 
+    full-image: 
+  links:
+    url-en: https://www.dropbox.com/s/1cyaf5gj978ojna/UnseenEnemy_EPK-theatrical_VF.pdf?dl=0
+    url-de: "#"
 presentingpartners:
 - title: Johnson & Johnson
   url: 
