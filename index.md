@@ -133,6 +133,8 @@ OurCommunities:
 - title: No More Epidemics
   url: 
   logo: "/uploads/nomoreepidemics.png"
+takeaction:
+  tagline: Stopping an outbreak starts with you.
 layout: home
 ---
 
