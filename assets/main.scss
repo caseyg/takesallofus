@@ -44,35 +44,62 @@ $teal--light: #71B9AF;
 .bg-teal--dark {  background-color: $teal--dark;}
 .bg-teal--light { background-color: $teal--light;}
 
+body {
+  font-family: "Raleway";
+}
+
 #unseen-enemy {
   background-image: url('/assets/texture.jpg');
   background-size: cover;
+}
+
+#the-film, #take-action {
   .lead img {
     max-width: 175px;
   }
 }
 
-#broadcast-events {
+
+#broadcast {
   background-image: url('/assets/map.png');
   background-size: cover;
-}
-
-#directors-statement {
-  background-image: url('/assets/director.jpg');
-  background-size: cover;
-}
-
-body {
-  font-family: "Raleway";
 }
 
 #unseen-enemy h1 {
   background-image: url('/assets/unseenenemy.png');
   background-size: contain;
-  background-repeat: none;
+  background-repeat: no-repeat;
   background-position: center;
   margin: auto;
   width: 700px;
   height: 96px;
   max-width: 100%;
+}
+
+.events {
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+  column-count: 2;
+}
+
+.events p {
+  break-inside: avoid-column;
+}
+
+.btn, .btn-primary {
+  background: transparent;
+  border: 1px solid $light;
+  color: $light!important;
+}
+
+.btn:hover, .btn-primary:hover {
+  background: $light;
+  border: 1px solid $light;
+  color: $teal !important;
+}
+
+.nav-links {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: $light!important;
 }

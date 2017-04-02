@@ -43,11 +43,10 @@ events:
   venue: NAS Building, 2101 Constitution Avenue, NW
   location: Washington DC
   url: https://nam.edu/event/documentary-screening-of-unseen-enemy-dc-premiere/
-mediapartners:
+productionpartners:
 - title: CNN Films
   url: 
   logo: "/uploads/CNNFILMS-972431.png"
-mediapartners-additional:
 - title: VULCAN PRODUCTIONS
   url: 
   logo: "/uploads/vulcanproductions.png"
@@ -60,7 +59,23 @@ mediapartners-additional:
 - title: WDR
   url: 
   logo: "/uploads/wdr.png"
-presskit: https://www.dropbox.com/s/1cyaf5gj978ojna/UnseenEnemy_EPK-theatrical_VF.pdf?dl=0
+presskit:
+  images:
+  - thumb-image: 
+    full-image: 
+  - thumb-image: 
+    full-image: 
+  - thumb-image: 
+    full-image: 
+  - thumb-image: 
+    full-image: 
+  - thumb-image: 
+    full-image: 
+  - thumb-image: 
+    full-image: 
+  links:
+    url-en: https://www.dropbox.com/s/1cyaf5gj978ojna/UnseenEnemy_EPK-theatrical_VF.pdf?dl=0
+    url-de: "#"
 presentingpartners:
 - title: Johnson & Johnson
   url: 
@@ -118,26 +133,8 @@ OurCommunities:
 - title: No More Epidemics
   url: 
   logo: "/uploads/nomoreepidemics.png"
-director:
-  pullquote-text: 
-  content-text: "  \n  \n\n*I walked away from working on this film with a deep understanding
-    that what I do affects the people around me, everyone from loved ones to passers-by.
-    I could sit next to a child, a grandmother, a man undergoing cancer treatment
-    and give them the flu (or any other disease) and hospitalize or kill them without
-    even knowing it. Each of us have a role to play, and it won’t work unless we all
-    contribute.*  \n  \n\n**What will it take for the world to see that now more than
-    ever we’re all the frontline of global health?**  \n\n\nJanet Tobias, Director"
-takeaction-text:
-- |-
-  **[Sign the Petition Against Pandemics](http://bit.ly/petitionpandemics)**
-
-  Call on G20 leaders to prioritize pandemic preparedness within national budgets and ensure that our collective global health security is a priority on the G20 agenda this July 2017.
-
-  ***In Partnership with [Global Citizen](https://www.globalcitizen.org/)***
-- |-
-  **Follow the Story**
-
-  Our community of action is growing beyond UNSEEN ENEMY. Follow us on [Facebook](http://www.facebook.com/takesallofus), [Instagram](www.instagram.com/ittakesallofus) and [Twitter](twitter.com/ittakesallofus) for behind the scenes footage, follow-up stories, new information, campaign events and calls to action that all support the global fight against emerging infectious diseases.
+takeaction:
+  tagline: Stopping outbreaks starts with **you**.
 layout: home
 ---
 
