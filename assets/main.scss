@@ -53,10 +53,10 @@ body {
   background-size: cover;
 }
 
-#the-film {
+#the-film, #take-action {
   .lead img {
     max-width: 175px;
-  }  
+  }
 }
 
 
@@ -84,4 +84,22 @@ body {
 
 .events p {
   break-inside: avoid-column;
+}
+
+.btn, .btn-primary {
+  background: transparent;
+  border: 1px solid $light;
+  color: $light!important;
+}
+
+.btn:hover, .btn-primary:hover {
+  background: $light;
+  border: 1px solid $light;
+  color: $teal !important;
+}
+
+.nav-links {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: $light!important;
 }

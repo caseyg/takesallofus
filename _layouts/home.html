@@ -6,13 +6,13 @@ layout: default
   <div class="container">
       <h1 class="text-hide my-3">{{ page.film.title }}</h1>
       <hr>
-      <ul class="list-inline">
+      <ul class="list-inline nav-links">
         <li class="list-inline-item mr-3"><a href="#the-film">The Film</a></li>
         <li class="list-inline-item mr-3"><a href="#broadcast">Broadcast</a></li>
         <li class="list-inline-item mr-3"><a href="#events">Events</a></li>
         <li class="list-inline-item"><a href="#take-action">Take Action</a></li>
       </ul>
-      <p class="d-block pt-3">
+      <p class="d-block pt-3 nav-links">
         <a href="#trailer" class="btn btn-primary mr-3">Trailer</a>
         <a href="#press" class="btn btn-primary">Press</a>
       </p>
@@ -48,8 +48,8 @@ layout: default
           </figure>
         {% endfor %}
       </div>
-      <a href="{{presskit.links.url-en}}" class="btn btn-primary mr-3">Download PDF (EN)</a>
-      <a href="{{presskit.links.url-de}}" class="btn btn-primary">Download PDF (DE)</a>
+      <a href="{{presskit.links.url-en}}" class="btn btn-primary mr-3 mb-1">Download Press Kit PDF (EN)</a>
+      <a href="{{presskit.links.url-de}}" class="btn btn-primary mb-1 mr-3">Download Press Kit PDF (DE)</a>
   </div>
 </div>
 
@@ -81,49 +81,59 @@ layout: default
 
 <section id="take-action" class="jumbotron jumbotron-fluid mb-0 bg-orange text-center">
   <div class="container">
-    <img src="/uploads/ittakesallofus.png" alt="it takes all of us logo">
-    <h2 class="pb-2">{{ page.takeaction.tagline }}</h2>
-    <form class="form-inline validate justify-content-center" action="//ikanahealth.us13.list-manage.com/subscribe/post?u=6c0796213e1398669bcf79eba&amp;id=d0c0826dd7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
-      <div class="form-group mr-1">
-      	<label for="mce-EMAIL" class="sr-only">Email Address </label>
-      	<input type="email" class="form-control required email" value="" placeholder="email@domain.com" name="EMAIL" id="mce-EMAIL">
+    <div class="lead">
+      <img src="/uploads/ittakesallofus.png" alt="it takes all of us logo" class="py-3">
+    </div>
+    <h2 class="py-2">{{ page.takeaction.tagline | markdownify }}</h2>
+
+    <div class="row">
+      <div class="col-md-4 my-3">
+        <h2>Share</h2>
+        <ul class="list-inline">
+          {% if site.twitter %}
+          <li class="list-inline-item mr-3">
+            <a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter fa-4x" aria-hidden="true"></i></a>
+          </li>
+          {% endif %}
+          {% if site.instagram %}
+          <li class="list-inline-item mr-3">
+            <a href="https://instagram.com/{{ site.instagram }}"><i class="fa fa-instagram fa-4x" aria-hidden="true"></i></a>
+          </li>
+          {% endif %}
+          {% if site.youtube %}
+          <li class="list-inline-item">
+            <a href="{{ site.youtube }}"><i class="fa fa-youtube fa-4x" aria-hidden="true"></i></a>
+          </li>
+          {% endif %}
+        </ul>
+        <br>
+        #ItTakesAllOfUs
       </div>
-    	<div id="mce-responses" class="clear">
-    		<div class="response" id="mce-error-response" style="display:none"></div>
-    		<div class="response" id="mce-success-response" style="display:none"></div>
-    	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6c0796213e1398669bcf79eba_d0c0826dd7" tabindex="-1" value=""></div>
-      <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary"></div>
-    </form>
+      <div class="col-md-4 my-3">
+        <h2>Join Our Movement</h2>
+        <form class="form-inline validate justify-content-center" action="//ikanahealth.us13.list-manage.com/subscribe/post?u=6c0796213e1398669bcf79eba&amp;id=d0c0826dd7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+          <div class="form-group mr-1">
+          	<label for="mce-EMAIL" class="sr-only">Email Address </label>
+          	<input type="email" class="form-control required email" value="" placeholder="email@domain.com" name="EMAIL" id="mce-EMAIL">
+          </div>
+        	<div id="mce-responses" class="clear">
+        		<div class="response" id="mce-error-response" style="display:none"></div>
+        		<div class="response" id="mce-success-response" style="display:none"></div>
+        	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6c0796213e1398669bcf79eba_d0c0826dd7" tabindex="-1" value=""></div>
+          <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary"></div>
+        </form>
+      </div>
+      <div class="col-md-4 my-3">
+        <h2>Contact</h2>
+        <ul class="list-inline">
+          {% if site.email %}
+          <li class="list-inline-item"><a href="mailto:{{ site.email }}"><i class="fa fa-envelope-o fa-4x" aria-hidden="true"></i> <br>{{ site.email }}</a></li>
+          {% endif %}
+        </ul>
+      </div>
+    </div>
   </div>
-</section>
-
-<section id="share" class="jumbotron jumbotron-fluid mb-0 bg-orange text-center">
-<div class="container">
-  <h2>Share</h2>
-  <ul class="list-unstyled">
-    {% if site.twitter %}
-    <li>
-      <a href="https://twitter.com/{{ site.twitter }}"><i class="fa fa-twitter" aria-hidden="true"></i> <span class="username">Twitter</span></a>
-    </li>
-    {% endif %}
-    {% if site.instagram %}
-    <li>
-      <a href="https://instagram.com/{{ site.instagram }}"><i class="fa fa-instagram" aria-hidden="true"></i> <span class="username">Instagram</span></a>
-    </li>
-    {% endif %}
-    {% if site.youtube %}
-    <li>
-      <a href="{{ site.youtube }}"><i class="fa fa-youtube" aria-hidden="true"></i> <span class="username">YouTube</span></a>
-    </li>
-    {% endif %}
-
-    {% if site.email %}
-    <li><br>Contact<br><a href="mailto:{{ site.email }}"><i class="fa fa-envelope-o" aria-hidden="true"></i> {{ site.email }}</a></li>
-    {% endif %}
-
-  </ul>
-</div>
 </section>
 
 <section id="media-partners" class="jumbotron jumbotron-fluid mb-0 bg-teal--dark text-center">
