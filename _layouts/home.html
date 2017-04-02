@@ -41,22 +41,20 @@ layout: default
 
 <div id="press" class="jumbotron jumbotron-fluid bg-teal--dark light text-center mb-0">
   <div class="container">
+    <h2 class="mb-3">Press Kit</h2>
+    <div class="my-gallery mb-3" itemscope itemtype="http://schema.org/ImageGallery">
       <div class="row">
-
-        <div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
-          {% for image in presskit.images %}
-
-            <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="col-xs-12 col-sm-6 col-md-4">
-              <a href="{{ image.full-image }}" itemprop="contentUrl">
-                  <img src="{{ image.thumb-image }}" itemprop="thumbnail" />
-              </a>
-            </figure>
-          {% endfor %}
-        </div>
-
+        {% for image in page.presskit.images %}
+          <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject" class="col-6 col-md-4 my-3">
+            <a href="{{ image.full-image }}" itemprop="contentUrl" data-size="5184x3456">
+                <img src="{{ image.thumb-image }}" itemprop="thumbnail" class="img-fluid" />
+            </a>
+          </figure>
+        {% endfor %}
       </div>
-      <a href="{{page.presskit.links.url-en}}" class="btn btn-primary mr-3 mb-1">Download Press Kit PDF (EN)</a>
-      <a href="{{page.presskit.links.url-de}}" class="btn btn-primary mb-1 mr-3">Download Press Kit PDF (DE)</a>
+    </div>
+    <a href="{{page.presskit.links.url-en}}" class="btn btn-primary mr-3 mb-1">Download Press Kit PDF (EN)</a>
+    <a href="{{page.presskit.links.url-de}}" class="btn btn-primary mb-1 mr-3">Download Press Kit PDF (DE)</a>
   </div>
 </div>
 
