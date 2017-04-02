@@ -61,18 +61,18 @@ productionpartners:
   logo: "/uploads/wdr.png"
 presskit:
   images:
-  - thumb-image: 
-    full-image: 
-  - thumb-image: 
-    full-image: 
-  - thumb-image: 
-    full-image: 
-  - thumb-image: 
-    full-image: 
-  - thumb-image: 
-    full-image: 
-  - thumb-image: 
-    full-image: 
+  - thumb-image: "/uploads/UE_Minnesota_150607-141_thumb.jpg"
+    full-image: "/uploads/UE_Minnesota_150607-141.jpg"
+  - thumb-image: "/uploads/UE_24P1942-Edit_thumb.jpg"
+    full-image: "/uploads/UE_24P1942-Edit.jpg"
+  - thumb-image: "/uploads/IMG_6574%20%20-%20Joao%20dos%20Santos%20in%20doctor%20consultation%20with%20his%20mother,%20Veronica%20dos%20Santos._thumb.jpg"
+    full-image: "/uploads/IMG_6574%20%20-%20Joao%20dos%20Santos%20in%20doctor%20consultation%20with%20his%20mother,%20Veronica%20dos%20Santos..jpg"
+  - thumb-image: "/uploads/UE_150530_Cambodia-1881_thumb.jpg"
+    full-image: "/uploads/UE_150530_Cambodia-1881.jpg"
+  - thumb-image: "/uploads/UE_SL_141220-154_thumb.jpg"
+    full-image: "/uploads/UE_SL_141220-154.jpg"
+  - thumb-image: "/uploads/UE_150530_Cambodia-1661_thumb.jpg"
+    full-image: "/uploads/UE_150530_Cambodia-1661.jpg"
   links:
     url-en: https://www.dropbox.com/s/0c14u5l9bwq59yc/UnseenEnemy_EPK-90min_VF210317.pdf?dl=0
     url-de: https://www.dropbox.com/s/ueg9z7lgkj0hdo7/ARTE%20German%20Press%20Kit.pdf?dl=0
