@@ -74,8 +74,8 @@ presskit:
   - thumb-image: 
     full-image: 
   links:
-    url-en: https://www.dropbox.com/s/1cyaf5gj978ojna/UnseenEnemy_EPK-theatrical_VF.pdf?dl=0
-    url-de: "#"
+    url-en: https://www.dropbox.com/s/0c14u5l9bwq59yc/UnseenEnemy_EPK-90min_VF210317.pdf?dl=0
+    url-de: https://www.dropbox.com/s/ueg9z7lgkj0hdo7/ARTE%20German%20Press%20Kit.pdf?dl=0
 presentingpartners:
 - title: Johnson & Johnson
   url: 
