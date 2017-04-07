@@ -14,9 +14,10 @@ broadcastevents:
     6**  \n[ETV2](http://etv2.err.ee/)  20:00  in Estonia  \n[DirectTV](http://www.directvla.com/)
     \ 21:00  in Latin America  \n[DirectTV](http://www.directv.com.ve/)  22:00 in
     Venezuela  \n  \n**April 7**  \n*World Health Day Broadcast*  \n[CNN](http://www.cnn.com)
-    \ 9:00 PM  in the United States  \n[CNN](http://www.cnn.com)  9:00 PM  in Canada
-    \ \n\n**8 April**  \nAvailable for a limited time on [CNN.com/go  ](http://www.cnn.com/go)
-    \ \n\n>*Check back for more broadcasts times.*"
+    \ 10:00 PM ET / 7:00 PM PT  in the United States  \n[CNN](http://www.cnn.com)
+    \ 10:00 PM ET / 7:00 PM PT  in Canada  \n\n**8 April**  \nAvailable for a limited
+    time on [CNN.com/go  ](http://www.cnn.com/go)  \n\n>*Check back for more broadcasts
+    times.*"
 events:
 - date-and-time: Wednesday 22 March at 19:00
   title: 'CPH:DOX Screening '
