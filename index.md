@@ -3,7 +3,7 @@ title: Home
 position: 0
 film:
   title: Unseen Enemy
-  description: "**Narrated by Jeffrey Wright, Emmy® and Golden Globe award-winning
+  description: "  \n**Narrated by Jeffrey Wright, Emmy® and Golden Globe award-winning
     actor**  \n\n**Written & Directed by Janet Tobias**  \n\n\n![Official Selection:
     Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)"
   trailer-youtube-id: zsB1sYSHEAM
