@@ -9,12 +9,14 @@ film:
   trailer-youtube-id: zsB1sYSHEAM
 broadcastevents:
   description: |-
-    **Saturday, April 15th
-    [CNN](http://www.cnn.com)  **at 10:00pm ET / 7:00pm PT**
-    **Second showing at 2:00am ET / 11pm PT
+    **Saturday, April 15th**
+    [CNN](http://www.cnn.com) 10:00pm ET / 7:00pm PT\
+    Second showing at 2:00am ET / 11pm PT
 
     **Available to cable subscribers on [CNN.com/go](http://www.cnn.com/go) until May 8th**
 
+    **Past Broadcasts**\
+    \
     Friday, April 7th
     *World Health Day Broadcast*
     [CNN](http://www.cnn.com)  10:00pm ET / 7:00pm PT in the United States & Canada
