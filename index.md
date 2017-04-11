@@ -11,18 +11,35 @@ film:
     ## ![Official Selection: Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)
   trailer-youtube-id: zsB1sYSHEAM
 broadcastevents:
-  description: "**Tuesday, April 4th**\\\n[ARTE](http://www.arte.tv) in France\\\n[ARTE](http://www.wdr.de)
-    in Germany\\\n[YES](http://www.yes.co.il) in Israel\\\n[TVN](http://www.tvn.pl/)
-    in Poland\n\n**Wednesday, April 5th**\\\n[RTHK](http://www.rthk.hk/) in Hong Kong\n\n**Thursday,
-    April 6th**\\\n[ETV2](http://etv2.err.ee/)  20:00  in Estonia\\\n[DirectTV](http://www.directvla.com/)
-    \ 21:00  in Latin America\\\n[DirectTV](http://www.directv.com.ve/)  22:00 in
-    Venezuela\n\n**Friday, April 7th**\\\n*World Health Day Broadcast*\\\n[CNN](http://www.cnn.com)
-    \ 10:00 PM ET / 7:00 PM PT  in the United States & Canada\n\n**Saturday, April
-    15th**\\\n[CNN](http://www.cnn.com)  9:00 PM ET / 6:00 PM PT \\\n[CNN](http://www.cnn.com)
-    \ 11:00 PM ET / 8:00 PM PT \n\n**April 8th - May 8th**\\\nAvailable on  [CNN.com/go](http://www.cnn.com/go)\n\n>
-    *Please check back for new additions to our global broadcast schedule. We look
-    forward to sharing the film with everyone on Video on Demand and DVD in the coming
-    months. *"
+  description: |-
+    ***`UPCOMING`***
+
+    **Saturday, April 15th**
+    **[CNN](http://www.cnn.com)  10:00 PM ET / 7:00 PM PT**
+
+    **Available to cable subscribers on [CNN.com/go](http://www.cnn.com/go) until May 8th**
+
+    **`PAST`**
+
+    Friday, April 7th
+    *World Health Day Broadcast*
+    [CNN](http://www.cnn.com)  10:00 PM ET / 7:00 PM PT in the United States & Canada
+
+    Thursday, April 6th
+    [ETV2](http://etv2.err.ee/)  20:00  in Estonia
+    [DirectTV](http://www.directvla.com/)  21:00  in Latin America
+    [DirectTV](http://www.directv.com.ve/)  22:00 in Venezuela
+
+    Wednesday, April 5th
+    [RTHK](http://www.rthk.hk/) in Hong Kong
+
+    Tuesday, April 4th
+    [ARTE](http://www.arte.tv) in France
+    [ARTE](http://www.wdr.de) in Germany
+    [YES](http://www.yes.co.il) in Israel
+    [TVN](http://www.tvn.pl/) in Poland
+
+    \*Please check back for new additions to our global broadcast schedule. We look forward to sharing the film with everyone on Video on Demand and DVD in the coming months. \*
 events:
 - date-and-time: Wednesday 22 March at 19:00
   title: 'CPH:DOX Screening '
