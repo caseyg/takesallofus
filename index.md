@@ -88,7 +88,7 @@ presentingpartners:
   logo: "/uploads/15-Johnson-Johnson-Logo%20copy.png"
 - title: Wellcome Trust
   url: 
-  logo: "/uploads/wellcome-logo-white.eps"
+  logo: "/uploads/wellcome-logo-white-01.png"
 - title: The Bill & Melinda Gates Foundation
   url: 
   logo: "/uploads/gatesfoundation.png"
