@@ -119,7 +119,7 @@ missionallies:
   logo: "/uploads/skollglobalthreatsfund.png"
 - title: University of British Columbia
   url: 
-  logo: "/uploads/ubc.png"
+  logo: "/uploads/UBC-White-Logo.png"
 - title: Boston Public Health
   url: 
   logo: "/uploads/bostonpublichealth.png"
