@@ -12,15 +12,12 @@ film:
   trailer-youtube-id: zsB1sYSHEAM
 broadcastevents:
   description: |-
-    ***`UPCOMING`***
+    **Saturday, April 15th
+    [CNN](http://www.cnn.com)  10:00 PM ET / 7:00 PM PT**\
+    **
+    Available to cable subscribers on [CNN.com/go](http://www.cnn.com/go) until May 8th**
 
-    **Saturday, April 15th**
-    **[CNN](http://www.cnn.com)  10:00 PM ET / 7:00 PM PT**
-
-    **Available to cable subscribers on [CNN.com/go](http://www.cnn.com/go) until May 8th**
-
-    **`PAST`**
-
+    \
     Friday, April 7th
     *World Health Day Broadcast*
     [CNN](http://www.cnn.com)  10:00 PM ET / 7:00 PM PT in the United States & Canada
