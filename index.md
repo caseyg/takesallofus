@@ -3,23 +3,37 @@ title: Home
 position: 0
 film:
   title: Unseen Enemy
-  description: "### **Narrated by Jeffrey Wright, Emmy® and Golden Globe award-winning
-    actor**\n\n### Written & Directed by Janet Tobias  \n\n### ![Official Selection:
-    Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)  "
+  description: "**Narrated by Jeffrey Wright, Emmy® and Golden Globe award-winning
+    actor**\n\n**Written & Directed by Janet Tobias** \n \n[Official Selection: Copenhagen
+    Film Festival](/uploads/copenhagenfilmfestival.png)  "
   trailer-youtube-id: zsB1sYSHEAM
 broadcastevents:
-  description: "**Saturday, April 15th  \n[CNN](http://www.cnn.com)  10:00 PM ET /
-    7:00 PM PT  **\nAvailable to cable subscribers on [CNN.com/go](http://www.cnn.com/go)
-    until May 8th  \n\nFriday, April 7th  \n*World Health Day Broadcast*\n[CNN](http://www.cnn.com)
-    \ 10:00 PM ET / 7:00 PM PT in the United States & Canada  \n\nThursday, April
-    6th  \n[ETV2](http://etv2.err.ee/)  20:00  in Estonia  \n[DirectTV](http://www.directvla.com/)
-    \ 21:00  in Latin America  \n[DirectTV](http://www.directv.com.ve/)  22:00 in
-    Venezuela  \n\nWednesday, April 5th  \n[RTHK](http://www.rthk.hk/) in Hong Kong
-    \ \n\nTuesday, April 4th  \n[ARTE](http://www.arte.tv) in France  \n[ARTE](http://www.wdr.de)
-    in Germany  \n[YES](http://www.yes.co.il) in Israel  \n[TVN](http://www.tvn.pl/)
-    in Poland  \n\n*Please check back for new additions to our global broadcast schedule.
-    We look forward to sharing the film with everyone on Video on Demand and DVD in
-    the coming months.  *"
+  description: |-
+    **Saturday, April 15th
+    [CNN](http://www.cnn.com)  **at 10:00pm ET / 7:00pm PT**
+    **Second showing at 2:00am ET / 11pm PT
+
+    **Available to cable subscribers on [CNN.com/go](http://www.cnn.com/go) until May 8th**
+
+    Friday, April 7th
+    *World Health Day Broadcast*
+    [CNN](http://www.cnn.com)  10:00pm ET / 7:00pm PT in the United States & Canada
+
+    Thursday, April 6th
+    [ETV2](http://etv2.err.ee) Estonia
+    [DirectTV](http://www.directvla.com) Latin America
+    [DirectTV](http://www.directv.com.ve) Venezuela
+
+    Wednesday, April 5th
+    [RTHK](http://www.rthk.hk) Hong Kong
+
+    Tuesday, April 4th
+    [ARTE](http://www.arte.tv) France
+    [ARTE](http://www.wdr.de) Germany
+    [YES](http://www.yes.co.il) Israel
+    [TVN](http://www.tvn.pl) Poland
+
+    *Please check back for new additions to our global broadcast schedule. We look forward to sharing the film with everyone on Video on Demand and DVD in the coming months.*
 events:
 - date-and-time: Wednesday 22 March at 19:00
   title: 'CPH:DOX Screening '
