@@ -15,11 +15,11 @@ film:
 broadcastevents:
   description: |-
     **Saturday, April 15th
-    [CNN](http://www.cnn.com)  10:00 PM ET / 7:00 PM PT**\
+    [CNN](http://www.cnn.com)  10:00 PM ET / 7:00 PM PT**
     **
     Available to cable subscribers on [CNN.com/go](http://www.cnn.com/go) until May 8th**
 
-    \
+
     Friday, April 7th
     *World Health Day Broadcast*
     [CNN](http://www.cnn.com)  10:00 PM ET / 7:00 PM PT in the United States & Canada
@@ -38,7 +38,7 @@ broadcastevents:
     [YES](http://www.yes.co.il) in Israel
     [TVN](http://www.tvn.pl/) in Poland
 
-    \*Please check back for new additions to our global broadcast schedule. We look forward to sharing the film with everyone on Video on Demand and DVD in the coming months. \*
+    *Please check back for new additions to our global broadcast schedule. We look forward to sharing the film with everyone on Video on Demand and DVD in the coming months.*
 events:
 - date-and-time: Wednesday 22 March at 19:00
   title: 'CPH:DOX Screening '
