@@ -3,14 +3,9 @@ title: Home
 position: 0
 film:
   title: Unseen Enemy
-  description: |
-    ### **Narrated by Jeffrey Wright, Emmy® and Golden Globe award-winning actor**
-
-    ### **Written & Directed by Janet Tobias**\
-    \
-
-    ## ![Official Selection: Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)\
-    \
+  description: "### **Narrated by Jeffrey Wright, Emmy® and Golden Globe award-winning
+    actor**\n\n### **Written & Directed by Janet Tobias  **\n\n### ![Official Selection:
+    Copenhagen Film Festival](/uploads/copenhagenfilmfestival.png)  \n\n  "
   trailer-youtube-id: zsB1sYSHEAM
 broadcastevents:
   description: |-
@@ -165,6 +160,6 @@ layout: home
 
 Emmy award-winning director Janet Tobias and some of the world's top experts explore lurking viruses and bacteria that may create the next global pandemic. "Over the last 10 decades there have been about 30 newly emerging diseases that have the potential to be pandemics," says Dr. Larry Brilliant, an epidemiologist featured in CNN Films' Unseen Enemy. "If we do nothing, it's not a matter of if there will be a global pandemic, it's just a matter of when -- and which virus, and how bad."
 
-Unseen Enemy examines why in the 21st century we are experiencing a rash of diseases that were once only outbreaks but have now become full-blown epidemics. Moving across the globe, we meet our characters: doctors, disease detectives, everyday men and women. Every one of them has stepped into the horror of an epidemic and emerged deeply changed. 
+Unseen Enemy examines why in the 21st century we are experiencing a rash of diseases that were once only outbreaks but have now become full-blown epidemics. Moving across the globe, we meet our characters: doctors, disease detectives, everyday men and women. Every one of them has stepped into the horror of an epidemic and emerged deeply changed.
 
 Examining the recent epidemics of Ebola, Influenza, and Zika, Unseen Enemy makes it clear that epidemics bring out the best and worst of human behavior, and that their effect goes far beyond the terrible tolls of sickness and death. We are all connected to any person, animal, and insect that may have an infectious disease incubating in them. Our connections can be either incredibly dangerous or powerful forces for good. It is our choice which becomes true.
