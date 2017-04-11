@@ -88,7 +88,7 @@ presentingpartners:
   logo: "/uploads/15-Johnson-Johnson-Logo%20copy.png"
 - title: Wellcome Trust
   url: 
-  logo: "/uploads/wellcometrust.png"
+  logo: "/uploads/wellcome-logo-white.png"
 - title: The Bill & Melinda Gates Foundation
   url: 
   logo: "/uploads/gatesfoundation.png"
@@ -119,13 +119,16 @@ missionallies:
   logo: "/uploads/skollglobalthreatsfund.png"
 - title: University of British Columbia
   url: 
-  logo: "/uploads/UBC-White-Logo.png"
+  logo: "/uploads/UBC-White-Logo-01.png"
 - title: Boston Public Health
   url: 
   logo: "/uploads/bostonpublichealth.png"
 - title: InSTEDD
   url: http://instedd.org/
   logo: "/uploads/instedd-logo-white-notext.png"
+- title: No More Epidemics
+  url: 
+  logo: "/uploads/nomoreepidemics.png"
 OurCommunities:
 - title: Alana's Foundation
   url: 
@@ -139,9 +142,6 @@ OurCommunities:
 - title: Fight the Flu Foundation
   url: 
   logo: "/uploads/fighttheflufoundation.png"
-- title: No More Epidemics
-  url: 
-  logo: "/uploads/nomoreepidemics.png"
 takeaction:
   tagline: Stopping outbreaks starts with **you**.
 layout: home
