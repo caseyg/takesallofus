@@ -98,7 +98,7 @@ missionallies:
   logo: "/uploads/globalcitizen_1.png"
 - title: Global Moms Challenge
   url: 
-  logo: "/uploads/globalmomschallenge.png"
+  logo: "/uploads/logo@2x.png"
 - title: Global Reporting Centre
   url: 
   logo: "/uploads/globalreportingcentre.png"
@@ -123,6 +123,9 @@ missionallies:
 - title: Boston Public Health
   url: 
   logo: "/uploads/bostonpublichealth.png"
+- title: InSTEDD
+  url: http://instedd.org/
+  logo: "/uploads/instedd-logo-white-notext.png"
 OurCommunities:
 - title: Alana's Foundation
   url: 
