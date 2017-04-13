@@ -19,7 +19,7 @@ layout: default
   </div>
 </div>
 
-<div id="trailer" class="container-fluid bg-dark">
+<div id="trailer" class="container-fluid bg-dark video">
   <iframe width="640" height="360" src="https://www.youtube.com/embed/{{ page.film.trailer-youtube-id }}?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -55,6 +55,13 @@ layout: default
     </div>
     <a href="{{page.presskit.links.url-en}}" class="btn btn-primary mr-3 mb-1">Download Press Kit PDF (EN)</a>
     <a href="{{page.presskit.links.url-de}}" class="btn btn-primary mb-1 mr-3">Download Press Kit PDF (DE)</a>
+    <div class="row py-3">
+      {% for video in page.youtube-playlists %}
+        <div class="col-4 video pb-3">
+          <iframe width="640" height="360"src="https://www.youtube.com/embed/{{ video }}?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+        </div>
+      {% endfor %}
+    </div>
   </div>
 </div>
 
