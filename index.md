@@ -146,7 +146,7 @@ takeaction:
   calls-to-action:
   - image: "/uploads/PandemicsPetition_GlobalCitizen-JnJ_CTA.jpg"
     url: http://bit.ly/G20action
-playlists:
+youtube-playlists:
 - zsB1sYSHEAM
 - zsB1sYSHEAM
 - zsB1sYSHEAM
