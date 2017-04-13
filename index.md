@@ -143,6 +143,9 @@ OurCommunities:
   logo: "/uploads/fighttheflufoundation.png"
 takeaction:
   tagline: Stopping outbreaks starts with **you**.
+  calls-to-action:
+  - image: "/uploads/PandemicsPetition_GlobalCitizen-JnJ_CTA.jpg"
+    url: http://bit.ly/G20action
 layout: home
 ---
 
