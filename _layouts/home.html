@@ -19,7 +19,7 @@ layout: default
   </div>
 </div>
 
-<div id="trailer" class="container-fluid bg-dark">
+<div id="trailer" class="container-fluid bg-dark video">
   <iframe width="640" height="360" src="https://www.youtube.com/embed/{{ page.film.trailer-youtube-id }}?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -55,6 +55,15 @@ layout: default
     </div>
     <a href="{{page.presskit.links.url-en}}" class="btn btn-primary mr-3 mb-1">Download Press Kit PDF (EN)</a>
     <a href="{{page.presskit.links.url-de}}" class="btn btn-primary mb-1 mr-3">Download Press Kit PDF (DE)</a>
+    <!--
+    <div class="row py-3">
+      {% for video in page.youtube-playlists %}
+        <div class="col-4 video pb-3">
+          <iframe width="640" height="360"src="https://www.youtube.com/embed/{{ video }}?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+        </div>
+      {% endfor %}
+    </div>
+    -->
   </div>
 </div>
 
@@ -84,12 +93,18 @@ layout: default
   </div>
 </section>
 
-<section id="take-action" class="jumbotron jumbotron-fluid mb-0 bg-orange text-center">
+<section id="take-action" class="jumbotron jumbotron-fluid mb-0 bg-orange text-center" style="background-color: #eda741;">
   <div class="container">
     <div class="lead">
       <img src="/uploads/ittakesallofus.png" alt="it takes all of us logo" class="py-3">
     </div>
     <h2 class="py-2">{{ page.takeaction.tagline | markdownify }}</h2>
+
+    <div class="row justify-content-center">
+      {% for cta in page.takeaction.calls-to-action %}
+        <div class="col-8 col-xs-6 col-md-4"><a href="{{cta.url}}"><img src="{{cta.image}}" class="img-fluid"></a></div>
+      {% endfor %}
+    </div>
 
     <div class="row">
       <div class="col-md-4 my-3">
