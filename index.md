@@ -12,26 +12,39 @@ broadcastevents:
     **Available on [CNN.com/go](http://www.cnn.com/go) until May 8th.**
 
     **Saturday, April 15th**
+
     [CNN](http://www.cnn.com) at 9pm ET (7pm PT)
+
     [CNN](http://www.cnn.com) at 2am ET (11pm PT)
+
     *Follow-up discussion featuring Dr. Sanjay Gupta, Anderson Cooper and Janet Tobias*
 
     **April 7th**
+
     *World Health Day Broadcast*
+
     [CNN](http://www.cnn.com) United States & Canada
 
     **April 6th**
+
     [ETV2](http://etv2.err.ee) Estonia
+
     [DirectTV](http://www.directvla.com) Latin America
+
     [DirectTV](http://www.directv.com.ve) Venezuela
 
-    April 5th
+    **April 5th**
+
     [RTHK](http://www.rthk.hk) Hong Kong
 
-    April 4th
+    **April 4th**
+
     [ARTE](http://www.arte.tv) France
-    [ARTE](http://www.wdr.de) Germany
+
+    [ARTE/WDR](http://www.wdr.de) Germany
+
     [YES](http://www.yes.co.il) Israel
+
     [TVN](http://www.tvn.pl) Poland
 
     *Please check back for new additions to our global broadcast schedule. We look forward to sharing the film with everyone on Video on Demand and DVD in the coming months.*
