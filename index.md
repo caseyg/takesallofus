@@ -5,7 +5,7 @@ film:
   title: Unseen Enemy
   description: "Narrated by Jeffrey Wright, Emmy® and Golden Globe award-winning actor\n\nWritten
     & Directed by Janet Tobias\n\n![copenhagenfilmfestival.png](/uploads/copenhagenfilmfestival.png)
-    \ "
+    \n   "
   trailer-youtube-id: zsB1sYSHEAM
 broadcastevents:
   description: "**Saturday, April 15th**\\\n[CNN](http://www.cnn.com)  9:00pm ET /
