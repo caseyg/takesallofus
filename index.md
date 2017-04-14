@@ -8,7 +8,7 @@ film:
 
     Written & Directed by Janet Tobias
 
-    [Official Selection: Copenhagen Film Festival][copenhagenfilmfestival.png](/uploads/copenhagenfilmfestival.png)
+    ![copenhagenfilmfestival.png](/uploads/copenhagenfilmfestival.png)
   trailer-youtube-id: zsB1sYSHEAM
 broadcastevents:
   description: "**Saturday, April 15th**\\\n[CNN](http://www.cnn.com)  9:00pm ET /
