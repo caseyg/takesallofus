@@ -9,7 +9,7 @@ film:
   trailer-youtube-id: zsB1sYSHEAM
 broadcastevents:
   description: "**Available on [CNN.com/go](http://www.cnn.com/go) until May 8th.**\n\n\n**Saturday,
-    April 15th**\n\n[CNN](http://www.cnn.com) at 9pm ET (7pm PT)\n\n[CNN](http://www.cnn.com)
+    April 15th**\n\n[CNN](http://www.cnn.com) at 9pm ET (6pm PT)\n\n[CNN](http://www.cnn.com)
     at 2am ET (11pm PT)\n\n*Follow-up discussion featuring Dr. Sanjay Gupta, Anderson
     Cooper and Janet Tobias*\n\n  \n\n**April 7th**\n\n*World Health Day Broadcast*\n\n[CNN](http://www.cnn.com)
     United States & Canada\n\n\n**April 6th**\n\n[ETV2](http://etv2.err.ee) Estonia\n\n[DirectTV](http://www.directvla.com)
