@@ -3,10 +3,9 @@ title: Home
 position: 0
 film:
   title: Unseen Enemy
-  description: |-
-    Narrated by Jeffrey Wright, Emmy® and Golden Globe award-winning actor
-
-    Written & Directed by Janet Tobias
+  description: "Narrated by Jeffrey Wright, Emmy® and Golden Globe award-winning actor\n\nWritten
+    & Directed by Janet Tobias\n\n![copenhagenfilmfestival.png](/uploads/copenhagenfilmfestival.png)
+    \ "
   trailer-youtube-id: zsB1sYSHEAM
 broadcastevents:
   description: "**Saturday, April 15th**\\\n[CNN](http://www.cnn.com)  9:00pm ET /
@@ -158,5 +157,3 @@ layout: home
 Unseen Enemy examines why in the 21st century we are experiencing a rash of diseases that were once only outbreaks but have now become full-blown epidemics. Moving across the globe, you'll meet our characters: doctors, disease detectives, everyday men and women. Every one of them has stepped into the horror of an epidemic and emerged deeply changed.
 
 Examining the recent epidemics of Ebola, Influenza, and Zika, Unseen Enemy makes it clear that epidemics bring out the best and worst of human behavior, and that their effect goes far beyond the terrible tolls of sickness and death. We are all connected to any person, animal, and insect that may have an infectious disease incubating in them. Our connections can be either incredibly dangerous or powerful forces for good. It is our choice which becomes true.
-
-  ![copenhagenfilmfestival.png](/uploads/copenhagenfilmfestival.png)  
