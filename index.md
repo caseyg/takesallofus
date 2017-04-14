@@ -8,9 +8,9 @@ film:
     \   "
   trailer-youtube-id: zsB1sYSHEAM
 broadcastevents:
-  description: "**Saturday, April 15th**\n[CNN](http://www.cnn.com)  \n9pm ET  \n7pm
+  description: "**Saturday, April 15th**  \n[CNN](http://www.cnn.com)  \n9pm ET  \n7pm
     PT\n\nFollowed by special feature with Dr. Sanjay Gupta, Anderson Cooper and Janet
-    Tobias\n\n[CNN](http://www.cnn.com)\n2am ET\n11pm PT\n\nThe film is available
+    Tobias\n  \n[CNN](http://www.cnn.com)  \n2am ET\n11pm PT\n\nThe film is available
     on [CNN.com/go](http://www.cnn.com/go) until May 8th.\n\n\n**Past Broadcasts**\n\nApril
     7th\n*World Health Day Broadcast*\n[CNN](http://www.cnn.com) United States & Canada\n\nApril
     6th\n[ETV2](http://etv2.err.ee) Estonia\n[DirectTV](http://www.directvla.com)
