@@ -9,9 +9,9 @@ film:
   trailer-youtube-id: zsB1sYSHEAM
 broadcastevents:
   description: |-
-    Available on [CNN.com/go](http://www.cnn.com/go) until May 8th.
+    **Available on [CNN.com/go](http://www.cnn.com/go) until May 8th.**
 
-    Saturday, April 15th
+    **Saturday, April 15th**
     [CNN](http://www.cnn.com) at 9pm ET (7pm PT)
     [CNN](http://www.cnn.com) at 2am ET (11pm PT)
     *Follow-up discussion featuring Dr. Sanjay Gupta, Anderson Cooper and Janet Tobias*
