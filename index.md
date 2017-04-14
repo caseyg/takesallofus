@@ -10,11 +10,14 @@ film:
 broadcastevents:
   description: |-
     **Saturday, April 15th**
-    [CNN](http://www.cnn.com)  9:00pm ET / 7:00pm PT
+    [CNN](http://www.cnn.com)  9:00pm ET  7:00pm PT
+
     Followed by special feature with Dr. Sanjay Gupta, Anderson Cooper and Janet Tobias
-    [CNN](http://www.cnn.com)  2:00am ET / 11:00pm PT
+
+    [CNN](http://www.cnn.com)  2:00am ET  11:00pm PT
 
     The film is available on [CNN.com/go](http://www.cnn.com/go) until May 8th.
+
 
     **Past Broadcasts**
 
