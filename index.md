@@ -9,9 +9,9 @@ film:
   trailer-youtube-id: zsB1sYSHEAM
 broadcastevents:
   description: "**Saturday, April 15th**  \n[CNN](http://www.cnn.com) at 9pm ET (7pm
-    PT)  \n\n[CNN](http://www.cnn.com) at 2am ET (11pm PT)\n  \n*Concluding remarks
-    featuring Dr. Sanjay Gupta, Anderson Cooper and Janet Tobias*\n  \n\n\nThe film
-    is available on [CNN.com/go](http://www.cnn.com/go) until May 8th.\n\n\n**Past
+    PT)  \n[CNN](http://www.cnn.com) at 2am ET (11pm PT)\n  \n*Concluding remarks
+    featuring Dr. Sanjay Gupta, Anderson Cooper and Janet Tobias*\n  \n  \n\n\n**Available
+    on [CNN.com/go](http://www.cnn.com/go) until May 8th. **   \n\n\n  \n\n**Past
     Broadcasts**\n\nApril 7th\n*World Health Day Broadcast*\n[CNN](http://www.cnn.com)
     United States & Canada\n\nApril 6th  \n[ETV2](http://etv2.err.ee) Estonia\n[DirectTV](http://www.directvla.com)
     Latin America\n[DirectTV](http://www.directv.com.ve) Venezuela\n\nApril 5th  \n[RTHK](http://www.rthk.hk)
