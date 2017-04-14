@@ -159,4 +159,4 @@ Unseen Enemy examines why in the 21st century we are experiencing a rash of dise
 
 Examining the recent epidemics of Ebola, Influenza, and Zika, Unseen Enemy makes it clear that epidemics bring out the best and worst of human behavior, and that their effect goes far beyond the terrible tolls of sickness and death. We are all connected to any person, animal, and insect that may have an infectious disease incubating in them. Our connections can be either incredibly dangerous or powerful forces for good. It is our choice which becomes true.
 
-![copenhagenfilmfestival.png](/uploads/copenhagenfilmfestival.png)
+  ![copenhagenfilmfestival.png](/uploads/copenhagenfilmfestival.png)  
