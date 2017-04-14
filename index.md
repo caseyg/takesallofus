@@ -8,17 +8,17 @@ film:
     \   "
   trailer-youtube-id: zsB1sYSHEAM
 broadcastevents:
-  description: "**Available on [CNN.com/go](http://www.cnn.com/go) until May 8th.
-    \ **\n\n**Saturday, April 15th**\n\n[CNN](http://www.cnn.com) at 9pm ET (7pm PT)\n\n[CNN](http://www.cnn.com)
+  description: "**Available on [CNN.com/go](http://www.cnn.com/go) until May 8th.**\n\n\n**Saturday,
+    April 15th**\n\n[CNN](http://www.cnn.com) at 9pm ET (7pm PT)\n\n[CNN](http://www.cnn.com)
     at 2am ET (11pm PT)\n\n*Follow-up discussion featuring Dr. Sanjay Gupta, Anderson
     Cooper and Janet Tobias*\n\n  \n\n**April 7th**\n\n*World Health Day Broadcast*\n\n[CNN](http://www.cnn.com)
-    United States & Canada\n\n**April 6th**\n\n[ETV2](http://etv2.err.ee) Estonia\n\n[DirectTV](http://www.directvla.com)
-    Latin America\n\n[DirectTV](http://www.directv.com.ve) Venezuela\n\n**April 5th**\n\n[RTHK](http://www.rthk.hk)
-    Hong Kong\n\n**April 4th**\n\n[ARTE](http://www.arte.tv) France\n\n[ARTE/WDR](http://www.wdr.de)
-    Germany\n\n[YES](http://www.yes.co.il) Israel\n\n[TVN](http://www.tvn.pl) Poland\n\n
-    \ \n\n*Please check back for new additions to our global broadcast schedule. We
-    look forward to sharing the film with everyone on Video on Demand and DVD in the
-    coming months.*"
+    United States & Canada\n\n\n**April 6th**\n\n[ETV2](http://etv2.err.ee) Estonia\n\n[DirectTV](http://www.directvla.com)
+    Latin America\n\n[DirectTV](http://www.directv.com.ve) Venezuela\n\n\n**April
+    5th**\n\n[RTHK](http://www.rthk.hk) Hong Kong\n\n\n**April 4th**\n\n[ARTE](http://www.arte.tv)
+    France\n\n[ARTE/WDR](http://www.wdr.de) Germany\n\n[YES](http://www.yes.co.il)
+    Israel\n\n[TVN](http://www.tvn.pl) Poland\n\n  \n\n*Please check back for new
+    additions to our global broadcast schedule. We look forward to sharing the film
+    with everyone on Video on Demand and DVD in the coming months.*"
 events:
 - date-and-time: Wednesday 22 March at 19:00
   title: 'CPH:DOX Screening '
