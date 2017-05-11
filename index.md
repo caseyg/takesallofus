@@ -47,19 +47,19 @@ events:
   url: https://nam.edu/event/documentary-screening-of-unseen-enemy-dc-premiere/
 productionpartners:
 - title: CNN Films
-  url:
+  url: 
   logo: "/uploads/CNNFILMS-972431.png"
 - title: VULCAN PRODUCTIONS
-  url:
+  url: 
   logo: "/uploads/vulcanproductions.png"
 - title: SIERRA/TANGO PRODUCTIONS
-  url:
+  url: 
   logo: "/uploads/sierratangoproductions.png"
 - title: ARTE
-  url:
+  url: 
   logo: "/uploads/arte.png"
 - title: WDR
-  url:
+  url: 
   logo: "/uploads/wdr.png"
 presskit:
   images:
@@ -80,63 +80,63 @@ presskit:
     url-de: https://www.dropbox.com/s/ueg9z7lgkj0hdo7/ARTE%20German%20Press%20Kit.pdf?dl=0
 presentingpartners:
 - title: Johnson & Johnson
-  url:
+  url: 
   logo: "/uploads/15-Johnson-Johnson-Logo%20copy.png"
 - title: Wellcome Trust
-  url:
+  url: 
   logo: "/uploads/wellcome-logo-white-01.png"
 - title: The Bill & Melinda Gates Foundation
-  url:
+  url: 
   logo: "/uploads/gatesfoundation.png"
 missionallies:
 - title: Global Citizen
-  url:
+  url: 
   logo: "/uploads/globalcitizen_1.png"
 - title: Global Moms Challenge
-  url:
+  url: 
   logo: "/uploads/logo@2x.png"
 - title: Global Reporting Centre
-  url:
+  url: 
   logo: "/uploads/globalreportingcentre.png"
 - title: Institut Pasteur
-  url:
+  url: 
   logo: "/uploads/institutpasteur.png"
 - title: London School of Hygiene and Tropical Medicine
-  url:
+  url: 
   logo: "/uploads/londonschoolofhygiene.png"
 - title: National Academy of Medicine
-  url:
+  url: 
   logo: "/uploads/nationalacacdenmyofmedicine.png"
 - title: NYU College of Global Public Health
-  url:
+  url: 
   logo: "/uploads/nyu.png"
 - title: Skoll Global Health Threats Fund
-  url:
+  url: 
   logo: "/uploads/skollglobalthreatsfund.png"
 - title: University of British Columbia
-  url:
+  url: 
   logo: "/uploads/UBC-White-Logo-01.png"
 - title: Boston Public Health
-  url:
+  url: 
   logo: "/uploads/bostonpublichealth.png"
 - title: InSTEDD
   url: http://instedd.org/
   logo: "/uploads/instedd-logo-white-notext.png"
 - title: No More Epidemics
-  url:
+  url: 
   logo: "/uploads/nomoreepidemics.png"
 OurCommunities:
 - title: Alana's Foundation
-  url:
+  url: 
   logo: "/uploads/alanasfoundation.png"
 - title: Ashley McCormick Foundation
-  url:
+  url: 
   logo: "/uploads/theashleymccormickfoundation.png"
 - title: Families Fighting Flu
-  url:
+  url: 
   logo: "/uploads/familiesfightingfluinc.png"
 - title: Fight the Flu Foundation
-  url:
+  url: 
   logo: "/uploads/fighttheflufoundation.png"
 takeaction:
   tagline: Stopping outbreaks starts with **you**.
