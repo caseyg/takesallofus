@@ -144,12 +144,7 @@ takeaction:
   - image: "/uploads/PandemicsPetition_GlobalCitizen-JnJ_CTA.jpg"
     url: http://bit.ly/G20action
 youtube-playlists:
-- www.youtube.com/playlist?list=PLW1xkn3Phf_sYHScMy5kjOypji5duP9cy
 - PLW1xkn3Phf_sYHScMy5kjOypji5duP9cy
-- zsB1sYSHEAM
-- zsB1sYSHEAM
-- zsB1sYSHEAM
-- zsB1sYSHEAM
 layout: home
 ---
 
